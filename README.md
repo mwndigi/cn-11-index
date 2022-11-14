@@ -5,17 +5,11 @@ Index
 # A
 
 <li>Abramson, Norman, 91, 500</li>
-
 <li>access and mobility management function (AMF), 608</li>
-
 <li>access control lists, 700</li> 
-
 <li>access networks, 42–48, 438</li> 
-
 <ul>cable, 44–45, 93 DSL, 43–44, 93</ul>
-
 <ul>enterprise, 46–47</ul>
-
 <ul>Ethernet, 46–47</ul>
 
 FTTH, 45–46, 93 
