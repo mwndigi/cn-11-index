@@ -340,357 +340,476 @@ application-layer message, 83
 
 # C
 
-CA. See Certification Authority 
-cable Internet access, 44–45, 93 
-cable modem termination system (CMTS), 45
-caching, 331 
-DNS, 160 
-pull, 181 
-push, 182
-Web, 135, 138
-Caesar cipher, 642, 644 
-canonical hostname, 154 
-care-of address (COA), 623, 624 
-carrier sense multiple access (CSMA), 499–501
-carrier sense multiple access with collision detection (CSMA/CD), 501–504
-efficiency, 504 
-carrier sensing, 499 
-CBC. See Cipher Block Chaining 
-CDMA. See code division multiple access
-CDNs. See Content Distribution Networks
-cell location tracking, 597 cells, 593
-cellular networks 
-3G, 48 
-4G, 48
-5G, 48
-4G/5G, transmission rates and range, 564 LTE, 48
-cellular telephony, 48
-centralized routing algorithm, 412 
-in LS algorithm, 414 
-central office (CO), 43–44 
-Cerf, Vinton, 91, 258, 405–406 
-certificate, 662
-Certification Authority (CA), 662 
-channel partitioning protocols, 493 
-CDMA, 495 
-FDM, 493–494 
-TDM, 493–494
-channel propagation delay, 501 
-channels
-with bit errors, 233–240 
-IEEE 802.11 wireless LAN, 575–578
-lossy, 238–241
-perfectly reliable, 232–233 
-satellite radio, 51 
-terrestrial radio, 51 
-channel utilization, 243 
-checksum field, 260
-checksumming methods, 488 
-checksums
-corrupted ACK and NAK packet detection, 236
-IPv4 headers, 362–363 
-UDP, 228–230 
-China Telecom, 410 
-China Unicom, 410 
-chipping rate, 569 
-choke packets, 292
-chosen-plaintext attack, 643 
-chunks, 170 
-CIDR. See Classless Interdomain Routing
-Cipher Block Chaining (CBC), 646
-ciphertext, 641 
-ciphertext-only attack, 643 
-circuit, 57
-circuit switching, 57–61 
-packet switching versus, 60–61 
-Cisco, 34, 93
-Cisco Catalyst 6500 Series, 346 
-switching bus, 348
-Cisco Catalyst 7600 Series, 346 
-switching fabric, 349
-Cisco Catalyst 8500 Series, switching fabric, 348
-Cisco CRS, switching strategy, 349 
-Cisco 12000 series, switching fabric, 348–349
-Clark, Jim, 92
-classful addressing, 367–368 
-Classless Interdomain Routing (CIDR), 366–367, 544 
-“class” of traffic, 358 
-cleartext, 641
-Clear to Send (CTS) control frame, 581
-client process, 257 
-clients, 41, 116
-client-server architecture, 114 
-cloud computing, 41, 94, 535 
-cloud services, response time of, 299 
-cluster selection strategy, 179 
-CMTS. See cable modem termination system
-CO. See central office 
-COA. See care-of address coaxial cable, 50
-code division multiple access (CDMA), 495, 562, 569–572
-collide, 492 collisions
-detection, 499 
-elimination of, 524 
-3Com, 518
-COMCAST, 410
-Command Line Interface (CLI), 457–458
-communication secure, 638
-communication layer, SDN, 444 
-communication links, 34 
-Compound TCP (CTPC), 306 
-computational complexity, of LS algorithm, 416
-computer networks, 32 
-graph model of, 410–411 
-history of, 88–94 
-throughput in, 73–76 
-conditional GET, 142 
-confidentiality, 638, 670 
-configuration data, 456 
-congestion
-buffer overflows from, 290–291 
-causes and costs of, 285–291 
-delays from, 287 
-lost segments and, 295 
-multihop paths and, 289–291 
-retransmission and, 288–289 
-routers and, 286–291 
-throughput and, 286–291 
-congestion avoidance, 297–298 
-congestion control, 216, 277 
-ABR, 227 
-adaptive, 227 
-AIMD, 301
-approaches to, 292–293 
-bandwidth and, 295 
-end-to-end, 292
-network-assisted, 292, 293 
-principles of, 285–293 
-TCP, 293–309
-congestion window, 294, 300 
-Congestion Window Reduced (CWR) bit, 304
-connection flooding, 85
-connectionless demultiplexing, 219–220
-connectionless multiplexing, 219–220 
-connectionless transport, 224–230 
-connection management, TCP, 279–283, 285
-connection-oriented and secure, 310–311
-connection-oriented demultiplexing, 220–223
-connection-oriented multiplexing, 220–223
-connection-oriented transport, 257–285
-connection requests, 221 
-connection state, 226
-Content Distribution Networks (CDNs), 142, 175 
-bring home, 176
-cluster selection strategies, 179 
-DNS redirects user’s request to, 178
-enter deep, 176
-geographically closest, 179 Google, 177
-IP-anycast and, 436–437 
-Netflix, 180–182 
-operation, 176 
-private, 176
-real-time measurements, 179 
-third-party, 176
-uploading versions to, 180 
-YouTube, 182
-content ingestion, 180 
-content processing, 180 
-content provider networks, 64 
-control packets, 342 
-control plane, 333, 343, 407 
-SDN, 441–450
-convergence, routing algorithm speed of, 425
-cookies, 135–138 
-SYN, 284
-cost reduction, 539–540 
-countdown timer, 240 
-CRC. See cyclic redundancy check 
-crossbar switches, 348–349 
-cryptographic hash function, 655–656 
-cryptography
-components, 641 
-principles of, 640–654 
-public-key, 649
-CSMA. See carrier sense multiple access
-CSMA with collision avoidance, 578
-CSNET, 91 
-CTS. See Clear to Send 
-CUBIC. See TCP CUBIC
-cumulative acknowledgment, 248, 262 
-customer, 62
-cwnd, 294, 296–301 
-Cyclades, 90
-cyclic redundancy check (CRC), 489–491
-codes, 489, 517
-error-detection techniques, 489–491
-IEEE 802.11 wireless LAN, 583–584
+- CA. See Certification Authority 
+- cable Internet access, 44–45, 93 
+- cable modem termination system (CMTS), 45
+- caching, 331 
+   - DNS, 160 
+   - pull, 181 
+   - push, 182
+   - Web, 135, 138
+- Caesar cipher, 642, 644 
+- canonical hostname, 154 
+- care-of address (COA), 623, 624 
+- carrier sense multiple access (CSMA), 499–501
+- carrier sense multiple access with 
+   - collision detection (CSMA/CD), 501–504
+   - efficiency, 504 
+- carrier sensing, 499 
+- CBC. See Cipher Block Chaining 
+- CDMA. See code division multiple access
+- CDNs. See Content Distribution Networks
+- cell location tracking, 597 cells, 593
+- cellular networks 
+   - 3G, 48 
+   - 4G, 48
+   - 5G, 48
+   - 4G/5G, transmission rates and range, 564 LTE, 48
+- cellular telephony, 48
+- centralized routing algorithm, 412 
+   - in LS algorithm, 414 
+- central office (CO), 43–44 
+- Cerf, Vinton, 91, 258, 405–406 
+- certificate, 662
+- Certification Authority (CA), 662 
+- channel partitioning protocols, 493 
+   - CDMA, 495 
+   - FDM, 493–494 
+   - TDM, 493–494
+- channel propagation delay, 501 
+- channels
+   - with bit errors, 233–240 
+   - IEEE 802.11 wireless LAN, 575–578
+   - lossy, 238–241
+   - perfectly reliable, 232–233 
+   - satellite radio, 51 
+   - terrestrial radio, 51 
+- channel utilization, 243 
+- checksum field, 260
+- checksumming methods, 488 
+- checksums
+   - corrupted ACK and NAK packet detection, 236
+   - IPv4 headers, 362–363 
+   - UDP, 228–230 
+- China Telecom, 410 
+- China Unicom, 410 
+- chipping rate, 569 
+- choke packets, 292
+- chosen-plaintext attack, 643 
+- chunks, 170 
+- CIDR. See Classless Interdomain Routing
+- Cipher Block Chaining (CBC), 646
+- ciphertext, 641 
+- ciphertext-only attack, 643 
+- circuit, 57
+- circuit switching, 57–61 
+   - packet switching versus, 60–61
+- Cisco, 34, 93
+- Cisco Catalyst 6500 Series, 346 
+   - switching bus, 348
+- Cisco Catalyst 7600 Series, 346 
+   - switching fabric, 349
+- Cisco Catalyst 8500 Series, switching fabric, 348
+- Cisco CRS, switching strategy, 349 
+- Cisco 12000 series, switching fabric, 348–349
+- Clark, Jim, 92
+- classful addressing, 367–368 
+- Classless Interdomain Routing (CIDR), 366–367, 544 
+- “class” of traffic, 358 
+- cleartext, 641
+- Clear to Send (CTS) control frame, 581
+- client process, 257 
+- clients, 41, 116
+- client-server architecture, 114 
+- cloud computing, 41, 94, 535 
+- cloud services, response time of, 299 
+- cluster selection strategy, 179 
+- CMTS. See cable modem termination system
+- CO. See central office 
+- COA. See care-of address 
+- coaxial cable, 50
+- code division multiple access (CDMA), 495, 562, 569–572
+- collide, 492 
+- collisions
+   - detection, 499 
+   - elimination of, 524 
+- 3Com, 518
+- COMCAST, 410
+- Command Line Interface (CLI), 457–458
+- communication secure, 638
+- communication layer, SDN, 444 
+- communication links, 34 
+- Compound TCP (CTPC), 306 
+- computational complexity, of LS algorithm, 416
+- computer networks, 32 
+   - graph model of, 410–411 
+   - history of, 88–94 
+   - throughput in, 73–76 
+- conditional GET, 142 
+- confidentiality, 638, 670 
+- configuration data, 456 
+- congestion
+   - buffer overflows from, 290–291 
+   - causes and costs of, 285–291 
+   - delays from, 287 
+   - lost segments and, 295 
+   - multihop paths and, 289–291 
+   - retransmission and, 288–289 
+   - routers and, 286–291 
+   - throughput and, 286–291 
+- congestion avoidance, 297–298 
+- congestion control, 216, 277 
+   - ABR, 227 
+   - adaptive, 227 
+   - AIMD, 301
+   - approaches to, 292–293 
+   - bandwidth and, 295 
+   - end-to-end, 292
+   - network-assisted, 292, 293 
+   - principles of, 285–293 
+   - TCP, 293–309
+- congestion window, 294, 300 
+- Congestion Window Reduced (CWR) bit, 304
+- connection flooding, 85
+- connectionless demultiplexing, 219–220
+- connectionless multiplexing, 219–220 
+- connectionless transport, 224–230 
+- connection management, TCP, 279–283, 285
+- connection-oriented and secure, 310–311
+- connection-oriented demultiplexing, 220–223
+- connection-oriented multiplexing, 220–223
+- connection-oriented transport, 257–285
+- connection requests, 221 
+- connection state, 226
+- Content Distribution Networks (CDNs), 142, 175 
+   - bring home, 176
+   - cluster selection strategies, 179 
+   - DNS redirects user’s request to, 178
+   - enter deep, 176
+   - geographically closest, 179 Google, 177
+   - IP-anycast and, 436–437 
+   - Netflix, 180–182 
+   - operation, 176 
+   - private, 176
+   - real-time measurements, 179 
+   - third-party, 176
+   - uploading versions to, 180 
+   - YouTube, 182
+- content ingestion, 180 
+- content processing, 180 
+- content provider networks, 64 
+- control packets, 342 
+- control plane, 333, 343, 407 
+   - SDN, 441–450
+- convergence, routing algorithm speed of, 425
+- cookies, 135–138 
+   - SYN, 284
+- cost reduction, 539–540 
+- countdown timer, 240 
+- CRC. See cyclic redundancy check 
+- crossbar switches, 348–349 
+- cryptographic hash function, 655–656 
+- cryptography
+   - components, 641 
+   - principles of, 640–654 
+   - public-key, 649
+- CSMA. See carrier sense multiple access
+- CSMA with collision avoidance, 578
+- CSNET, 91 
+- CTS. See Clear to Send 
+- CUBIC. See TCP CUBIC
+- cumulative acknowledgment, 248, 262 
+- customer, 62
+- cwnd, 294, 296–301 
+- Cyclades, 90
+- cyclic redundancy check (CRC), 489–491
+   - codes, 489, 517
+   - error-detection techniques, 489–491
+   - IEEE 802.11 wireless LAN, 583–584
 
 # D
 
-DARPA. See Defense Advanced Research Projects Agency
-DASH. See Dynamic Adaptive Streaming over HTTP
-data, 456 
-data center, 114
-cost reduction, 539–540 
-hardware modularity and customization, 541–542 
-physical constraints, 541
-SDN control and management, 540 
-virtualization, 540–541 
-data center network design, 536 
-data center networking
-data center architectures, 535–539 
-trends in, 539–542 
-data center networks, 535 
-Data Center Quantized Congestion Notification (DCQCN), 305
-data centers, 41
-Data Center TCP (DCTCP), 304, 309 
-Data Encryption Standard (DES), 645 
-Datagram Congestion Control Protocol (DCCP), 304 
-datagrams, 81, 215 
-indirect routing of, 624 
-inspecting, 376
-IPv4 format, 361–363 
-IPv6 format, 378–380 
-NAT and, 376 network-layer, 83 
-reassembly of, 380 transmission, 516
-data-over-cable service interface specifications (DOCSIS), 505–507 
-data plane, 333, 394 4G, 614
-generalized forwarding and SDN, 383–390 
-IP, 360–383 routers, 341–360
-SDN and, 442, 448–449 
-data received events, 269, 270 
-Davies, Donald, 89 
-DCCP. See Datagram Congestion Control Protocol
-DCTCP. See Data Center TCP 
-DDoS. See distributed DoS 
-decentralized routing algorithm, 412–413
-decryption, 653
-decryption algorithm, 641 
-deep packet inspection (DPI), 390, 639, 705
-Defense Advanced Research Projects Agency (DARPA), 90, 91, 405 
-delayed-based congestion control, 305–306
-delays
-application, 73 
-bounded, 339 
-in end systems, 73 
-end-to-end, 71–73
-network congestion and, 287 
-nodal, 66
-nodal processing, 65 
-in packet-switched networks, 65–76
-processing, 66
-propagation, 65, 67–69 
-queuing, 54–55, 65, 66, 69–71, 287
-in shared medium, 73 
-total nodal, 65 
-transmission, 65–69 
-types of, 65–69
-deletion, message content, 640 
-demilitarized zone (DMZ), 706 
-demultiplexing, 217–224, 544 
+- DARPA. See Defense Advanced Research Projects Agency
+- DASH. See Dynamic Adaptive Streaming over HTTP
+- data, 456 
+- data center, 114
+   - cost reduction, 539–540 
+   - hardware modularity and customization, 541–542 
+   - physical constraints, 541
+   - SDN control and management, 540 
+   - virtualization, 540–541 
+- data center network design, 536 
+- data center networking
+   - data center architectures, 535–539 
+   - trends in, 539–542 
+- data center networks, 535 
+- Data Center Quantized Congestion Notification (DCQCN), 305
+- data centers, 41
+- Data Center TCP (DCTCP), 304, 309 
+- Data Encryption Standard (DES), 645 
+- Datagram Congestion Control Protocol (DCCP), 304 
+- datagrams, 81, 215 
+   - indirect routing of, 624 
+   - inspecting, 376
+   - IPv4 format, 361–363 
+   - IPv6 format, 378–380 
+   - NAT and, 376 network-layer, 83 
+   - reassembly of, 380 transmission, 516
+- data-over-cable service interface specifications (DOCSIS), 505–507 
+- data plane, 333, 394 
+   - 4G, 614
+   - generalized forwarding and SDN, 383–390 
+   - IP, 360–383 routers, 341–360
+   - SDN and, 442, 448–449 
+- data received events, 269, 270 
+- Davies, Donald, 89 
+- DCCP. See Datagram Congestion Control Protocol
+- DCTCP. See Data Center TCP 
+- DDoS. See distributed DoS 
+- decentralized routing algorithm, 412–413
+- decryption, 653
+- decryption algorithm, 641 
+- deep packet inspection (DPI), 390, 639, 705
+- Defense Advanced Research Projects Agency (DARPA), 90, 91, 405 
+- delayed-based congestion control, 305–306
+- delays
+   - application, 73 
+   - bounded, 339 
+   - in end systems, 73 
+   - end-to-end, 71–73
+   - network congestion and, 287 
+   - nodal, 66
+   - nodal processing, 65 
+   - in packet-switched networks, 65–76
+   - processing, 66
+   - propagation, 65, 67–69 
+   - queuing, 54–55, 65, 66, 69–71, 287
+   - in shared medium, 73 
+   - total nodal, 65 
+   - transmission, 65–69 
+   - types of, 65–69
+- deletion, message content, 640 
+- demilitarized zone (DMZ), 706 
+- demultiplexing, 217–224, 544 
 connectionless, 219–220 
-connection-oriented, 220–223 
-transport-layer, 216 
-denial-of-service (DoS) attacks, 85–86 
-distributed, 86, 87 
-SYN floods for, 284
-destination-based forwarding, 343–346
-destination port number, 260 
-destination port number field, 218
-Deutsche Telecom, 410 
-device statistics, 456
-DHCP. See Dynamic Host Configuration Protocol 
-DHCP ACK message, 374, 544 
-DHCP discover message, 372 
-DHCP offer message, 372–373 
-DHCP request message, 374, 543 
-DHT. See Distributed Hast Table 
-Diffie-Hellman algorithm, 654 
-DIFS. See Distributed Inter-frame Space
-Digital Attack Map, 85 
-digital ethernet, 518 
-digital signatures, 658–661 
-digital subscriber line (DSL), 43–44, 93
-digital subscriber line access multiplexer (DSLAM), 43–44 
-Dijkstra’s algorithm, 413, 420 
-in OSPF, 426 
-direct routing, 615 
-distance-vector algorithm (DV algorithm), 418–425 decentralization, 420
-link-cost changes and link failure, 422–424
-LS compared with, 424–425 message complexity, 424–425 poisoned reverse, 424 robustness, 425
-speed of convergence, 425 distant centralized database, 156 distributed applications, 35 distributed DoS (DDoS), 86 Distributed Hast Table (DHT), 173 Distributed Inter-frame Space (DIFS), 580
-distribution time, 168 DMZ. See demilitarized zone DNS. See domain name system DNS protocol, 545 DNS query message, 545
-DNS reply message, 546 DNS resource record, 546 DOCSIS. See Data-Over-Cable Service Interface Specifications
-DOCSIS 2.0, 45 domain names, 440
-domain name system (DNS), 80, 153
-additional section, 164 answer section, 164 and ARP, 544–545 authoritative servers, 157 authority section, 164 caching, 160
-distant centralized database, 156 distributed, hierarchical database, 156–160
-header section, 163 hierarchy, 157 interaction, 159
-Internet presence and, 440–441 intra-domain routing, 545–546 IP-anycast in, 436–437 iterative queries, 160 local server, 158 maintenance, 156 messages, 163
-operation of, 155–161 peer-to-peer file distribution, 166–173
-question section, 163 records insertion, 164 recursive queries, 160 resource records (RRs), 161 root servers, 157 servers, 153
-servers in 2020, 158
-services provided by, 153–155 single point of failure, 156 top-level domain (TLD), 156, 157
-traffic volume, 156 UDP usage by, 225 vulnerabilities, 165
-dotted-decimal notation, 364 DPI. See deep packet inspection drop, packet, 71 dropping
-OpenFlow, 387
-packets, strategies for, 352 drop-tail, 352 DSL. See digital subscriber line DSLAM. See digital subscriber line access multiplexer duplicate ACKs, 238, 273 duplicate data packets, 240 duplicate packets, 236 DV algorithm. See distance-vector algorithm
-Dynamic Adaptive Streaming over HTTP (DASH), 174
-Dynamic Host Configuration Protocol (DHCP), 371–374 address obtainment with, 371–374
-messages, 372–373 mobile nodes and, 374 NAT and, 374
-dynamic routing algorithms, 413 E
-EAP. See Extensible Authentication Protocol
-eavesdropping, 640 e-Bay, 93 eBGP. See external BGP EC2, 94 ECE. See Explicit Congestion Notification Echo echo request, 453 ECN. See Explicit Congestion Notification
-edge routers, 342 efficiency
-ALOHA protocol, 497 CSMA/CD, 504
-802.11. See IEEE 802.11 EIGRP protocol, 426 elastic applications, 120 e-mail
-components, 146 high-level view of, 147 in internet, 146
-mail access protocols, 151–152
-mail message formats, 151 PGP, 673–674 protocols, 152 secure, 670–673 SMTP, 80, 147–150 encapsulation, 82–84
-Encapsulation Security Payload (ESP) protocol, 683
-encrypted, 638 encryption
-public key, 642, 648–654 symmetric key, 642–648 encryption algorithm, 641 end-end principle, 229
-end-point authentication, 87–88, 639, 664–666
-end systems, 32, 34, 39–41 delay in, 73
-end-to-end argument, 393 end-to-end congestion control, 292 end-to-end connection, 57 end-to-end delay, 71–73 enhanced mobile broadband (eMBB), 606
-eNode-B, 595 entity body, 133 Equal Cost Multi Path (ECMP), 539
-error checking, UDP checksums and, 228–230
-error-correction techniques, 482, 484, 485
-error detection, 234
-error-detection techniques, 482, 484, 485
-checksumming methods, 488 cyclic redundancy check (CRC), 489–491
-parity checks, 486–488
-ESP. See Encapsulation Security Payload
-EstimatedRTT, 266 Estrin, Deborah, 633 Ethane project, 449–450 Ethernet, 35, 46–47, 392 buffered distributors, 520 challenges, 514 development of, 91 frame, 543
-frame structure, 516–518 gigabit, 520 installations, 515 MTU, 259
-packet sniffing, 87 standards, 519
-technologies, 518–521 event-based programming, 249 EWMA. See exponential weighted moving average
-Explicit Congestion Notification (ECN), 304–305
-Explicit Congestion Notification Echo (ECE), 305
-exponential weighted moving average (EWMA), 266 extended FSM, 248
-extensible authentication protocol (EAP), 693–694
-external BGP (eBGP), 431
+   - connection-oriented, 220–223 
+   - transport-layer, 216 
+- denial-of-service (DoS) 
+   - attacks, 85–86 
+   - distributed, 86, 87 
+   - SYN floods for, 284
+- destination-based forwarding, 343–346
+- destination port number, 260 
+- destination port number field, 218
+- Deutsche Telecom, 410 
+- device statistics, 456
+- DHCP. See Dynamic Host Configuration Protocol 
+- DHCP ACK message, 374, 544 
+- DHCP discover message, 372 
+- DHCP offer message, 372–373 
+- DHCP request message, 374, 543 
+- DHT. See Distributed Hast Table 
+- Diffie-Hellman algorithm, 654 
+- DIFS. See Distributed Inter-frame Space
+- Digital Attack Map, 85 
+- digital ethernet, 518 
+- digital signatures, 658–661 
+- digital subscriber line (DSL), 43–44, 93
+- digital subscriber line access multiplexer (DSLAM), 43–44 
+- Dijkstra’s algorithm, 413, 420 
+   - in OSPF, 426 
+- direct routing, 615 
+- distance-vector algorithm (DV algorithm), 418–425
+   - decentralization, 420
+   - link-cost changes and link failure, 422–424
+   - LS compared with, 424–425 
+   - message complexity, 424–425 
+   - poisoned reverse, 424 
+   - robustness, 425
+   - speed of convergence, 425 
+- distant centralized database, 156 
+- distributed applications, 35 
+- distributed DoS (DDoS), 86 
+- Distributed Hast Table (DHT), 173 
+- Distributed Inter-frame Space (DIFS), 580
+- distribution time, 168 
+- DMZ. See demilitarized zone 
+- DNS. See domain name system 
+- DNS protocol, 545 
+- DNS query message, 545
+- DNS reply message, 546 
+- DNS resource record, 546 
+- DOCSIS. See Data-Over-Cable Service Interface Specifications
+- DOCSIS 2.0, 45 
+- domain names, 440
+- domain name system (DNS), 80, 153
+   - additional section, 164 
+   - answer section, 164 
+   - and ARP, 544–545 
+   - authoritative servers, 157 
+   - authority section, 164 
+   - caching, 160
+   - distant centralized database, 156 
+   - distributed, hierarchical database, 156–160
+   - header section, 163 
+   - hierarchy, 157 
+   - interaction, 159
+   - Internet presence and, 440–441 
+   - intra-domain routing, 545–546 
+   - IP-anycast in, 436–437 
+   - iterative queries, 160 
+   - local server, 158 
+   - maintenance, 156 
+   - messages, 163
+   - operation of, 155–161 
+   - peer-to-peer file distribution, 166–173
+   - question section, 163 
+   - records insertion, 164 
+   - recursive queries, 160 
+   - resource records (RRs), 161 
+   - root servers, 157 
+   - servers, 153
+   - servers in 2020, 158
+   - services provided by, 153–155 single point of failure, 156 
+   - top-level domain (TLD), 156, 157
+   - traffic volume, 156 
+   - UDP usage by, 225 
+   - vulnerabilities, 165
+- dotted-decimal notation, 364 
+- DPI. See deep packet inspection 
+- drop, packet, 71 
+- dropping
+   - OpenFlow, 387
+   - packets, strategies for, 352 
+- drop-tail, 352 
+- DSL. See digital subscriber line 
+- DSLAM. See digital subscriber line access multiplexer 
+- duplicate ACKs, 238, 273 
+- duplicate data packets, 240 
+- duplicate packets, 236 
+- DV algorithm. See distance-vector algorithm
+- Dynamic Adaptive Streaming over HTTP (DASH), 174
+- Dynamic Host Configuration Protocol (DHCP), 371–374 
+   - address obtainment with, 371–374
+   - messages, 372–373 
+   - mobile nodes and, 374 
+   - NAT and, 374
+- dynamic routing algorithms, 413 
+
+# E
+
+- EAP. See Extensible Authentication Protocol
+- eavesdropping, 640 
+- e-Bay, 93 
+- eBGP. See external BGP 
+- EC2, 94 
+- ECE. See Explicit Congestion Notification Echo 
+- echo request, 453 
+- ECN. See Explicit Congestion Notification
+- edge routers, 342 
+- efficiency
+   - ALOHA protocol, 497 
+   - CSMA/CD, 504
+- 802.11. See IEEE 802.11 
+- EIGRP protocol, 426 
+- elastic applications, 120 
+- e-mail
+   - components, 146 high-level view of, 147 in internet, 146
+   - mail access protocols, 151–152
+   - mail message formats, 151 
+   - PGP, 673–674 
+   - protocols, 152 secure, 670–673 
+   - SMTP, 80, 147–150 
+- encapsulation, 82–84
+- Encapsulation Security Payload (ESP) protocol, 683
+- encrypted, 638 
+- encryption
+   - public key, 642, 648–654 
+   - symmetric key, 642–648 
+- encryption algorithm, 641 
+- end-end principle, 229
+- end-point authentication, 87–88, 639, 664–666
+- end systems, 32, 34, 39–41 
+   - delay in, 73
+- end-to-end argument, 393 
+- end-to-end congestion control, 292 
+- end-to-end connection, 57 
+- end-to-end delay, 71–73 
+- enhanced mobile broadband (eMBB), 606
+- eNode-B, 595 
+- entity body, 133 
+- Equal Cost Multi Path (ECMP), 539
+- error checking, UDP checksums and, 228–230
+- error-correction techniques, 482, 484, 485
+- error detection, 234
+- error-detection techniques, 482, 484, 485
+   - checksumming methods, 488 
+   - cyclic redundancy check (CRC), 489–491
+   - parity checks, 486–488
+- ESP. See Encapsulation Security Payload
+- EstimatedRTT, 266 
+- Estrin, Deborah, 633 
+- Ethane project, 449–450 
+- Ethernet, 35, 46–47, 392 
+   - buffered distributors, 520 
+   - challenges, 514 
+   - development of, 91 
+   - frame, 543
+   - frame structure, 516–518 
+   - gigabit, 520 
+   - installations, 515 
+   - MTU, 259
+   - packet sniffing, 87 
+   - standards, 519
+   - technologies, 518–521 
+- event-based programming, 249 
+- EWMA. See exponential weighted moving average
+- Explicit Congestion Notification (ECN), 304–305
+- Explicit Congestion Notification Echo (ECE), 305
+- exponential weighted moving average (EWMA), 266 
+- extended FSM, 248
+- extensible authentication protocol (EAP), 693–694
+- external BGP (eBGP), 431
 
 # F 
 
-Facebook, 666
-Facetime, video conferencing, 111 fading, 569 fairness
-of AIMD, 306–309
-parallel TCP connections and, 309 
-TCP and, 306–309 
-UDP and, 308–309 
-fast recovery, 298–300 fast retransmit, 273–275 FCFS. See first-come-first-served FDM. See frequency-division multiplexing
-FEC. See forward error correction Feynman, Richard, 332 FHSS. See frequency-hopping spread spectrum
-fiber optics, 93
-in cable systems, 44–45 
-physical media, 50 fiber to the home (FTTH), 45–46, 93
-FIFO. See first-in-first-out 5G, 48
-5G cellular networks, 46 5G fixed wireless, 46 filtering, 521
-link-layer switches, 521–522 filters stateful, 698
-traditional packet, 698 FIN bit, 261
-finite-state machine (FSM), 232 for data transfer over channel with bit errors, 234–240 for data transfer over lossy channel with bit errors, 240–241
-for data transfer over perfectly reliable channel, 232–233
-extended, 248
-for GBN protocol, 246–248 TCP congestion control, 297, 298 firewalls, 377, 383
+- Facebook, 666
+- Facetime, video conferencing, 111 
+- fading, 569 
+- fairness
+   - of AIMD, 306–309
+   - parallel TCP connections and, 309 
+   - TCP and, 306–309 
+   - UDP and, 308–309 
+- fast recovery, 298–300 
+- fast retransmit, 273–275 
+- FCFS. See first-come-first-served 
+- FDM. See frequency-division multiplexing
+- FEC. See forward error correction 
+- Feynman, Richard, 332 
+- FHSS. See frequency-hopping spread spectrum
+- fiber optics, 93
+   - in cable systems, 44–45 
+   - physical media, 50 
+- fiber to the home (FTTH), 45–46, 93
+- FIFO. See first-in-first-out 
+- 5G, 48
+- 5G cellular networks, 46 
+- 5G fixed wireless, 46 
+- filtering, 521
+   - link-layer switches, 521–522 
+- filters 
+   - stateful, 698
+   - traditional packet, 698 
+- FIN bit, 261
+- finite-state machine (FSM), 232 
+   - for data transfer over channel with bit errors, 234–240 
+   - for data transfer over lossy channel with bit errors, 240–241
+   - for data transfer over perfectly reliable channel, 232–233
+   - extended, 248
+   - for GBN protocol, 246–248
+   - TCP congestion control, 297, 298 
+- firewalls, 377, 383
 application gateways, 698 stateful filters, 698
 traditional packet filters, 698 first-come-first-served (FCFS), 355 first-in-first-out (FIFO), 355–356 5G cellular networks, 605 core network, 607–608 eMBB, 606
 FR2 frequencies, 606
