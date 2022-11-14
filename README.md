@@ -11,107 +11,107 @@ Index
    - cable, 44–45, 93 DSL, 43–44, 93
    - enterprise, 46–47
    - Ethernet, 46–47
-
-FTTH, 45–46, 93 
-3G, 48 
-4G, 48 
-5G, 48
-5G cellular networks, 46 
-5G fixed wireless, 46 
-HFC, 45 
-LTE, 48
-WiFi, 46–47
-access points (AP), 574 
-in infrastructure LANs, 574 
-MAC addresses, 574 
-mobility between, 587 
-power management and, 590 
-scanning for, 577 
-SSID, 575 
-WiFi, 480
-wireless LANs, 563
-ACK (positive acknowledgments), 234–238
-corrupted, 236 
-DHCP, 374
-duplicate, 238, 273 
-in 802.11 RTC/CTS system, 590
-TCP generation recommendation, 274
-ACK bit, 260 
-TCP, 700
-ack clocking, 331 
-ACK frames, 582
-acknowledged segments, 295 
-acknowledgments cumulative, 248, 262 
-negative, 234–238, 265 
-piggybacked, 265
-positive, 234–238, 273, 374 
-TCP, 261–263, 276
-acknowledgment number, 261–263 
-piggybacked, 265 
-Telnet and, 263–265
-acknowledgment number field, 260 
-ACK received events, 269, 270 
-active optical networks (AONs), 46 
-active queue management (AQM), 352
-active scanning, 576 
-adapters
-802.11, 563 ARP query and, 512
-CSMA/CD operation and, 515 
-datagram transmission and, 516 
-error detection in, 482 
-Ethernet frames and, 524 
-frames, 494 
-jabbering, 524
-MAC addresses, 508 
-monitors, 502
-motherboard chipset, 483 
-network, 483
-adaptive congestion control, 227
-additive-increase, multiplicative-decrease (AIMD), 301 
-fairness of, 306–309 address aggregation, 368 
-addresses. See also IP addresses; 
-MAC addresses anycast, 378 
-broadcast, 510 
-care-of, 623, 624 
-foreign, 623
-IEEE 802.11 wireless LAN, 584–586
-IP broadcast, 370, 372–373 
-LAN, 508 
-MAC, 574
-mobile node, 623
-obtaining with DHCP, 371–374 
-permanent, 160 
-physical, 508
-realm with private, 374 SIP, 123
-temporary IP, 371 
-addressing, 363–374 
-classful, 367–368 
-IP, 216
-IPv4, 363–374
-link-layer, 483, 508–514 
-mobility management and, 596 
-subnet, 366
-address lease time, 373
-Address Resolution Protocol (ARP), 510
-MAC address, 508–513 
-packet, 512 
-table, 512
-Address Supporting Organization of ICANN, 370–371 
-ad hoc networks, 564
-mobile, 565 
-vehicular, 565
-Adleman, Leonard, 650 
-administrative autonomy, 426 
-Advanced Research Projects Agency (ARPA), 89, 405
-AES (Advanced Encryption Standard), 645 
-agent discovery, 624 
-aging time, 523 
-AH protocol. See Authentication Header protocol
-AIMD. See additive-increase, multiplicative-decrease Akamai, 142, 155 
-aliasing
-host, 154
-mail server, 154 
-Alibaba Cloud, 94 
+   - FTTH, 45–46, 93 
+   - 3G, 48 
+   - 4G, 48 
+   - 5G, 48
+   - 5G cellular networks, 46 
+   - 5G fixed wireless, 46 
+   - HFC, 45 
+   - LTE, 48
+   - WiFi, 46–47
+- access points (AP), 574 
+   - in infrastructure LANs, 574 
+   - MAC addresses, 574 
+   - mobility between, 587 
+   - power management and, 590 
+   - scanning for, 577 
+   - SSID, 575 
+   - WiFi, 480
+   - wireless LANs, 563
+- ACK (positive acknowledgments), 234–238
+   - corrupted, 236 
+   - DHCP, 374
+   - duplicate, 238, 273 
+   - in 802.11 RTC/CTS system, 590
+   - TCP generation recommendation, 274
+- ACK bit, 260 
+   - TCP, 700
+- ack clocking, 331 
+- ACK frames, 582
+- acknowledged segments, 295 
+acknowledgments 
+   - cumulative, 248, 262 
+   - negative, 234–238, 265 
+   - piggybacked, 265
+   - positive, 234–238, 273, 374 
+   - TCP, 261–263, 276
+- acknowledgment number, 261–263 
+   - piggybacked, 265 
+   - Telnet and, 263–265
+- acknowledgment number field, 260 
+- ACK received events, 269, 270 
+- active optical networks (AONs), 46 
+- active queue management (AQM), 352
+- active scanning, 576 
+- adapters
+   - 802.11, 563 ARP query and, 512
+   - CSMA/CD operation and, 515 
+   - datagram transmission and, 516 
+   - error detection in, 482 
+   - Ethernet frames and, 524 
+   - frames, 494 
+   - jabbering, 524
+   - MAC addresses, 508 
+   - monitors, 502
+   - motherboard chipset, 483 
+   - network, 483
+- adaptive congestion control, 227
+- additive-increase, multiplicative-decrease (AIMD), 301 
+   - fairness of, 306–309 address aggregation, 368 
+- addresses. See also IP addresses; 
+   - MAC addresses anycast, 378 
+   - broadcast, 510 
+   - care-of, 623, 624 
+   - foreign, 623
+   - IEEE 802.11 wireless LAN, 584–586
+   - IP broadcast, 370, 372–373 
+   - LAN, 508 
+   - MAC, 574
+   - mobile node, 623
+   - obtaining with DHCP, 371–374 
+   - permanent, 160 
+   - physical, 508
+   - realm with private, 374 SIP, 123
+   - temporary IP, 371 
+- addressing, 363–374 
+   - classful, 367–368 
+   - IP, 216
+   - IPv4, 363–374
+   - link-layer, 483, 508–514 
+   - mobility management and, 596 
+   - subnet, 366
+- address lease time, 373
+- Address Resolution Protocol (ARP), 510
+   - MAC address, 508–513 
+   - packet, 512 
+   - table, 512
+- Address Supporting Organization of ICANN, 370–371 
+- ad hoc networks, 564
+   - mobile, 565 
+   - vehicular, 565
+- Adleman, Leonard, 650 
+- administrative autonomy, 426 
+- Advanced Research Projects Agency (ARPA), 89, 405
+- AES (Advanced Encryption Standard), 645 
+- agent discovery, 624 
+- aging time, 523 
+- AH protocol. See Authentication Header protocol
+- AIMD. See additive-increase, multiplicative-decrease Akamai, 142, 155 
+- aliasing
+   - host, 154
+   - mail server, 154 
+- Alibaba Cloud, 94 
 ALOHAnet, 89, 91, 500 
 ALOHA protocol, 498 
 carrier sense multiple access (CSMA), 499–501
