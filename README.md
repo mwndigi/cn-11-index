@@ -8,9 +8,9 @@ Index
 - access and mobility management function (AMF), 608
 - access control lists, 700
 - access networks, 42–48, 438
- - cable, 44–45, 93 DSL, 43–44, 93
- - enterprise, 46–47
- - Ethernet, 46–47
+   - cable, 44–45, 93 DSL, 43–44, 93
+   - enterprise, 46–47
+   - Ethernet, 46–47
 
 FTTH, 45–46, 93 
 3G, 48 
