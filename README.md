@@ -1911,29 +1911,29 @@ packet sniffing, 87
 transmission rates and range, 564 
 WiFi, 572–593
 wireless personal area networks (WPANs), 591
-Wireshark, 87, 106–107 
-TCP, 330
-work-conserving queuing, 359 
-worms, 222 
-WPANs. See wireless personal area networks
+- Wireshark, 87, 106–107 
+   - TCP, 330
+- work-conserving queuing, 359 
+- worms, 222 
+- WPANs. See wireless personal area networks
 
 # X
 
-X.509, 664 
-Xerox
-ethernet, 518
-X.25 protocol suite, 92 
-XTP, 488
+- X.509, 664 
+- Xerox
+   - ethernet, 518
+- X.25 protocol suite, 92 
+- XTP, 488
 
 # Y 
 
-Yahoo, 93
-YANG, 458, 466 
-YouTube, 306 
-CDN and, 182
-video streaming, 173 
+- Yahoo, 93
+- YANG, 458, 466 
+- YouTube, 306 
+   - CDN and, 182
+   - video streaming, 173 
 
 # Z 
 
-zeroconf, 371 
-Zimmerman, Phil, 673
+- zeroconf, 371 
+- Zimmerman, Phil, 673
