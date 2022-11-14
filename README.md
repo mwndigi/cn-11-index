@@ -107,7 +107,8 @@ acknowledgments
 - agent discovery, 624 
 - aging time, 523 
 - AH protocol. See Authentication Header protocol
-- AIMD. See additive-increase, multiplicative-decrease Akamai, 142, 155 
+- AIMD. See additive-increase, multiplicative-decrease 
+- Akamai, 142, 155 
 - aliasing
    - host, 154
    - mail server, 154 
@@ -810,133 +811,199 @@ connectionless, 219–220
    - for GBN protocol, 246–248
    - TCP congestion control, 297, 298 
 - firewalls, 377, 383
-application gateways, 698 stateful filters, 698
-traditional packet filters, 698 first-come-first-served (FCFS), 355 first-in-first-out (FIFO), 355–356 5G cellular networks, 605 core network, 607–608 eMBB, 606
-FR2 frequencies, 606
-millimeter wave frequencies, 606 and millimeter wave frequencies, 606–607 mMTC, 606 standards, 606 URLLC, 606
-5G Core network, 607 flag days, 381 flag field, 260 flow, 378
-flow-based forwarding, 441–442 flow-control service, 276 flow control, TCP, 276–278 flow table, 384
-match-plus-action, 449 SDN, 444
-wildcards in, 386 forward error correction (FEC), 488
-forwarding, 60, 334, 341, 521 to broadcast, 387
-destination-based, 343–346 flow-based, 441–442 generalized, 343, 383–390 link-layer switches, 521–522 longest prefix matching rule, 345, 368
-OpenFlow, 387
-packets, 336 SDN, 441–442
-forwarding plane, 342–343 forwarding tables, 55–56, 336, 337 in input processing, 345–346 line cards, 345
-in LS algorithm, 415–416 match-plus-action, 384 prefixes, 345 routers, 336, 337 in SDN, 342, 344
-4G LTE cellular networks authentication, 596 base station, 594–595 cell location tracking, 597 elements of, 595 functions, 597
-home subscriber server (HSS), 595 mobile device, 594
-mobility management entity (MME), 596
-network attachment, 602–603 network of networks, 604–605 packet data network gateway, 595 path setup, 596
-power management, 603–604 protocols stacks, 600–601 radio access network, 601–602 serving gateway, 595
-4G, 48
-fragmentation, 380 frames, 82 ACK, 582 beacon, 576 CTS, 581 Ethernet, 543
-IEEE 802.11 wireless LAN, 583–586
-link-layer, 83 
-time, 494 
-VLANs, 530
-framing, 482
-frequency-division multiplexing (FDM), 58–59, 493–494
-frequency-hopping spread spectrum (FHSS), 591
-FSM. See finite-state machine FTP protocol, 80 FTTH. See fiber to the home full-duplex service, 257 fully connected topology, 541
+   - application gateways, 698 
+   - stateful filters, 698
+   - traditional packet filters, 698 
+- first-come-first-served (FCFS), 355 
+- first-in-first-out (FIFO), 355–356 
+- 5G cellular networks, 605 
+   - core network, 607–608 
+   - eMBB, 606
+   - FR2 frequencies, 606
+   - millimeter wave frequencies, 606 
+   - and millimeter wave frequencies, 606–607 
+   - mMTC, 606 standards, 606 
+   - URLLC, 606
+- 5G Core network, 607 
+- flag days, 381 
+- flag field, 260 
+- flow, 378
+- flow-based forwarding, 441–442 
+- flow-control service, 276 
+- flow control, TCP, 276–278 
+- flow table, 384
+   - match-plus-action, 449 
+   - SDN, 444
+   - wildcards in, 386 
+- forward error correction (FEC), 488
+- forwarding, 60, 334, 341, 521 
+   - to broadcast, 387
+   - destination-based, 343–346 
+   - flow-based, 441–442 
+   - generalized, 343, 383–390 
+   - link-layer switches, 521–522 
+   - longest prefix matching rule, 345, 368
+   - OpenFlow, 387
+   - packets, 336 
+   - SDN, 441–442
+- forwarding plane, 342–343 
+- forwarding tables, 55–56, 336, 337 
+   - in input processing, 345–346 
+   - line cards, 345
+   - in LS algorithm, 415–416 
+   - match-plus-action, 384 
+   - prefixes, 345 
+   - routers, 336, 337 
+   - in SDN, 342, 344
+- 4G LTE cellular networks authentication, 596 
+   - base station, 594–595 
+   - cell location tracking, 597 
+   - elements of, 595 
+   - functions, 597
+   - home subscriber server (HSS), 595 
+   - mobile device, 594
+   - mobility management entity (MME), 596
+   - network attachment, 602–603 
+   - network of networks, 604–605 
+   - packet data network gateway, 595 
+   - path setup, 596
+   - power management, 603–604 
+   - protocols stacks, 600–601 
+   - radio access network, 601–602 
+   - serving gateway, 595
+- 4G, 48
+- fragmentation, 380 
+- frames, 82 
+   - ACK, 582 
+   - beacon, 576 
+   - CTS, 581 
+   - Ethernet, 543
+   - IEEE 802.11 wireless LAN, 583–586
+   - link-layer, 83 
+   - time, 494 
+   - VLANs, 530
+- framing, 482
+- frequency-division multiplexing (FDM), 58–59, 493–494
+- frequency-hopping spread spectrum (FHSS), 591
+- FSM. See finite-state machine FTP protocol, 80 
+- FTTH. See fiber to the home 
+- full-duplex service, 257 
+- fully connected topology, 541
 
 # G
 
-gateway router, 430 gateways, 343 GBN protocol. See Go-Back-N (GBN) protocol
-GE Information Services, 90 generalized forwarding, 343, 383–390
-action, 386–387 match, 385–386
-match-plus-action, 387–390 generator, 489
-geostationary satellites, 51 4G/5G cellular networks
-authentication and key agreement, 694–697
-security, 689
-Gigabit Ethernet, 520 Github, 165
-Global Positioning System (GPS), 588
-Go-Back-N (GBN) protocol, 245–250 events, 248 TCP as, 276
-Google, 41, 93, 306, 310 CDN infrastructure, 177 private network, 64, 94, 410
-SDN use by, 410, 447 video streaming, 173 Google Chrome browser QUIC protocol, 226 graph, 410
-graph algorithms, 413 Greenberg, Albert, 558 guaranteed delivery, 339 guaranteed delivery with bounded delay, 339
-guaranteed minimal bandwidth, 339–340
-guided media, 49
+- gateway router, 430 
+- gateways, 343 
+- GBN protocol. See Go-Back-N (GBN) protocol
+- GE Information Services, 90 
+- generalized forwarding, 343, 383–390
+   - action, 386–387 
+   - match, 385–386
+   - match-plus-action, 387–390 
+- generator, 489
+- geostationary satellites, 51 
+- 4G/5G cellular networks
+   - authentication and key agreement, 694–697
+   - security, 689
+- Gigabit Ethernet, 520 Github, 165
+- Global Positioning System (GPS), 588
+- Go-Back-N (GBN) protocol, 245–250 
+   - events, 248 
+   - TCP as, 276
+- Google, 41, 93, 306, 310 
+   - CDN infrastructure, 177 
+   - private network, 64, 94, 410
+   - SDN use by, 410, 447 
+   - video streaming, 173 
+- Google Chrome browser QUIC protocol, 226 
+- graph, 410
+- graph algorithms, 413 
+- Greenberg, Albert, 558 
+- guaranteed delivery, 339 
+- guaranteed delivery with bounded delay, 339
+- guaranteed minimal bandwidth, 339–340
+- guided media, 49
 
 # H
 
-Handley, Mark, 633 
-handoff, 564
-handover, 564, 609
-handover management, 620 
-handshaking
-TCP three-way, 258, 280–281 
-TLS, 676
-hash functions
-checksum, 655–656 
-cryptographic, 655–656 
-digital signatures using, 660 
-MD5, 656 
-SHA-1, 656
-header length field, 260 
-header lines, 131, 133 
-headers, 362–363 
-AH protocol, 683 
-DNS, 163
-IPv4, 361–362
-head-of-the-line blocking (HOL blocking), 144, 350 
-HELLO message, 428 
-Heterogeneous links, 524 
-HFC. See hybrid fiber coax
-hidden terminal problem, 569 
-hierarchical architectures, 537–539
-within ASs, 428–429 
-high-speed wireless Internet access, 93
-HMAC, 658 
-HOL blocking. See head-of-the-line blocking
-home agent
-in mobile IP, 623 
-registration with, 624 
-home network, 604, 610
-Home Subscriber Server (HSS), 595, 609
-hop limit, 380 Host
-aliasing, 154
-host addresses, obtaining with DHCP, 371–374
-host aliasing, 154 
-hostname, 153 
-hosts, 32, 40, 41
-hot potato routing, 434–435 
-hourglass, Internet Protocol, 392–393 
-HTML, development of, 92 
-HTTP
-manifest file, 175 
-TCP and, 546–547 
-HTTP GET message, 546 
-HTTP request, 544 
-HTTP response, 547 
-hub, 515
-hybrid fiber coax (HFC), 44–45
-HyperText Transfer Protocol (HTTP), 80, 92, 126
-conditional GET, 142–143 
-HTTP/2, 143–144 
-HTTP/3, 146
-HTTP/2 framing, 144–145 
-ICMP and, 453
-message format, 131–135 
-with non-persistent connections, 128–130
-overview of, 126–128 
-with persistent connections, 130–131
-ports, 223–224
-Quick UDP Internet Connections, 311–312
-request message, 131–133 
-request-response behavior, 127 
-response message, 133–135 
-response message prioritization, 145 
-server, manifest file, 175 
-server pushing, 145 
-stateless protocol, 128
-user-server interaction, 135–138 
-web and, 125–126 
-web caching, 138–142
+- Handley, Mark, 633 
+- handoff, 564
+- handover, 564, 609
+- handover management, 620 
+- handshaking
+   - TCP three-way, 258, 280–281 
+   - TLS, 676
+- hash functions
+   - checksum, 655–656 
+   - cryptographic, 655–656 
+   - digital signatures using, 660 
+   - MD5, 656 
+   - SHA-1, 656
+- header length field, 260 
+- header lines, 131, 133 
+- headers, 362–363 
+   - AH protocol, 683 
+   - DNS, 163
+   - IPv4, 361–362
+- head-of-the-line blocking (HOL blocking), 144, 350 
+- HELLO message, 428 
+- Heterogeneous links, 524 
+- HFC. See hybrid fiber coax
+- hidden terminal problem, 569 
+- hierarchical architectures, 537–539
+   - within ASs, 428–429 
+- high-speed wireless Internet access, 93
+- HMAC, 658 
+- HOL blocking. See head-of-the-line blocking
+- home agent
+   - in mobile IP, 623 
+   - registration with, 624 
+- home network, 604, 610
+- Home Subscriber Server (HSS), 595, 609
+- hop limit, 380 
+- Host
+   - aliasing, 154
+- host addresses, obtaining with DHCP, 371–374
+- host aliasing, 154 
+- hostname, 153 
+- hosts, 32, 40, 41
+- hot potato routing, 434–435 
+- hourglass, Internet Protocol, 392–393 
+- HTML, development of, 92 
+- HTTP
+   - manifest file, 175 
+   - TCP and, 546–547 
+- HTTP GET message, 546 
+- HTTP request, 544 
+- HTTP response, 547 
+- hub, 515
+- hybrid fiber coax (HFC), 44–45
+- HyperText Transfer Protocol (HTTP), 80, 92, 126
+   - conditional GET, 142–143 
+   - HTTP/2, 143–144 
+   - HTTP/3, 146
+   - HTTP/2 framing, 144–145 
+   - ICMP and, 453
+   - message format, 131–135 
+   - with non-persistent connections, 128–130
+   - overview of, 126–128 
+   - with persistent connections, 130–131
+   - ports, 223–224
+   - Quick UDP Internet Connections, 311–312
+   - request message, 131–133 
+   - request-response behavior, 127 
+   - response message, 133–135 
+   - response message prioritization, 145 
+   - server, manifest file, 175 
+   - server pushing, 145 
+   - stateless protocol, 128
+   - user-server interaction, 135–138 
+   - web and, 125–126 
+   - web caching, 138–142
 
 # I
 
-IANA, 378 
+- IANA, 378 
 iBGP. See internal BGP 
 IBM, 90 
 ICANN. See Internet Corporation for Assigned Names and Numbers
