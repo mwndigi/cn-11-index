@@ -970,104 +970,109 @@ IXPs. See Internet Exchange Points
 
 # J
 
-jabbering adapters, 524 
-Jacobson, Van, 331–332 
-Juniper MX2020, 342
+- jabbering adapters, 524 
+- Jacobson, Van, 331–332 
+- Juniper MX2020, 342
 
 # K
 
-Kahn, Bob, 405, 406 Kahn, Robert
-ARPAnet development and, 89–91 
-TCP/IP creation and, 258 
-Karels, Mike, 331 
-key, 641
-key agreement
-4G/5G cellular networks, 694–697 
-Kleinrock, Leonard, 89, 108–110, 405 
-known-plaintext attack, 643
+- Kahn, Bob, 405, 406 
+- Kahn, Robert
+   - ARPAnet development and, 89–91 
+   - TCP/IP creation and, 258 
+- Karels, Mike, 331 
+- key, 641
+- key agreement
+   - 4G/5G cellular networks, 694–697 
+- Kleinrock, Leonard, 89, 108–110, 405 
+- known-plaintext attack, 643
 
 # L
 
-label-switched router, 533 
-Lampson, Butler, 386 
-LAN. See local area network 
-LAN address, 508
-layered architectures, 77–82 
-encapsulation, 82–84
-layers, 79
-layer 4 switching, 343 
-layer 5 switching, 343 
-least-cost path, 412
-Bellman-Ford equation for, 418–419
-in LS algorithm, 414–416 
-LEO satellites. See low-earth orbiting satellites
-Level 3 Communications, 62 
-Licklider, J. C. R., 89 
-line cards
-forwarding tables in, 345 
-input and output ports, 342 
-processing on, 348 
-line speeds, queuing and, 349–350
-link access, 482 link capacity
-buffer sizing and, 353 
-network congestion and, 287 
-link failure, 422–424 
-link layer, 81–82 
-broadcast, 482
-cable internet access, 505–507 
-implementation locations, 483–484
-network as, 531–534 
-network types, 491–493 
-services provided by, 482–483 
-wireless host vs. server, 481 
-link-layer acknowledgment scheme, 579
-link-layer frame, 83, 480 
-link-layer switches, 34, 53, 341 
-destination address lookup in, 346
-filtering, 521–522 
-forwarding, 521–522 
-properties of, 524–525
-vs. routers, 525–527 
-self-learning, 523–524 
-links, 480
-link-state algorithms (LS algorithms), 412–417, 420
-centralized routing algorithm, 414 
-computational complexity of, 416
-DV compared with, 424–425 
-forwarding tables, 415–416 
-message complexity, 424–425 
-oscillations in, 416–417 OSPF, 426 
-robustness, 425
-speed of convergence, 425 
-steps of, 414–415 
-link-state broadcast, 413 
-erroneous, 425
-link virtualization, 531
-dialup modem connection, 531 
-multiprotocol label switching (MPLS), 532–534
-link weights, in OSPF, 427 
-Linux, Snort, 708 
-load balancing, 536–537 
-load balancing packets, 383 
-load distribution, 154
-load-insensitive algorithms, 413 
-load-sensitive algorithm, 413 
-local area network (LAN), 46–47. See also virtual local area networks; wireless LANs local area networks switched, 507–531 
-local breakout, 614, 620
-Local DNS Server (LDNS), 158, 178 
-local preference, 435 
-logical communication, 212 
-logically centralized control, 409–410
-logically centralized routing controllers, 338
-longest prefix matching rule, 345, 368 
-Long-Term Evolution (LTE), 48 
-lookup algorithms, 346 
-loss-tolerant applications, 119 
-lossy channels, 238–241 
-lost, packet, 71 lost segments, 295
-low-earth orbiting (LEO) satellites, 51 
-LS algorithms. See link-state algorithms
-LTE. See Long-Term Evolution
+- label-switched router, 533 
+- Lampson, Butler, 386 
+- LAN. See local area network 
+- LAN address, 508
+- layered architectures, 77–82 
+   - encapsulation, 82–84
+- layers, 79
+- layer 4 switching, 343 
+- layer 5 switching, 343 
+- least-cost path, 412
+   - Bellman-Ford equation for, 418–419
+   - in LS algorithm, 414–416 
+- LEO satellites. See low-earth orbiting satellites
+- Level 3 Communications, 62 
+- Licklider, J. C. R., 89 
+- line cards
+   - forwarding tables in, 345 
+   - input and output ports, 342 
+   - processing on, 348 
+- line speeds, queuing and, 349–350
+- link access, 482
+- link capacity
+   - buffer sizing and, 353 
+   - network congestion and, 287 
+- link failure, 422–424 
+- link layer, 81–82 
+   - broadcast, 482
+   - cable internet access, 505–507 
+   - implementation locations, 483–484
+   - network as, 531–534 
+   - network types, 491–493 
+   - services provided by, 482–483 
+   - wireless host vs. server, 481 
+- link-layer acknowledgment scheme, 579
+- link-layer frame, 83, 480 
+- link-layer switches, 34, 53, 341 
+   - destination address lookup in, 346
+   - filtering, 521–522 
+   - forwarding, 521–522 
+   - properties of, 524–525
+   - vs. routers, 525–527 
+   - self-learning, 523–524 
+- links, 480
+- link-state algorithms (LS algorithms), 412–417, 420
+   - centralized routing algorithm, 414 
+   - computational complexity of, 416
+   - DV compared with, 424–425 
+   - forwarding tables, 415–416 
+   - message complexity, 424–425 
+   - oscillations in, 416–417 OSPF, 426 
+   - robustness, 425
+   - speed of convergence, 425 
+   - steps of, 414–415 
+- link-state broadcast, 413 
+   - erroneous, 425
+- link virtualization, 531
+   - dialup modem connection, 531 
+   - multiprotocol label switching (MPLS), 532–534
+- link weights, in OSPF, 427 
+- Linux, Snort, 708 
+- load balancing, 536–537 
+- load balancing packets, 383 
+- load distribution, 154
+- load-insensitive algorithms, 413 
+- load-sensitive algorithm, 413 
+- local area network (LAN), 46–47. 
+   - See also virtual local area networks; wireless LANs
+- local area networks
+   - switched, 507–531 
+- local breakout, 614, 620
+- Local DNS Server (LDNS), 158, 178 
+- local preference, 435 
+- logical communication, 212 
+- logically centralized control, 409–410
+- logically centralized routing controllers, 338
+- longest prefix matching rule, 345, 368 
+- Long-Term Evolution (LTE), 48 
+- lookup algorithms, 346 
+- loss-tolerant applications, 119 
+- lossy channels, 238–241 
+- lost, packet, 71 lost segments, 295
+- low-earth orbiting (LEO) satellites, 51 
+- LS algorithms. See link-state algorithms
+- LTE. See Long-Term Evolution
 
 # M
 
