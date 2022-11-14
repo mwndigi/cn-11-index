@@ -112,221 +112,231 @@ acknowledgments
    - host, 154
    - mail server, 154 
 - Alibaba Cloud, 94 
-ALOHAnet, 89, 91, 500 
-ALOHA protocol, 498 
-carrier sense multiple access (CSMA), 499–501
-carrier sense multiple access with collision detection (CSMA/CD), 501–504
-efficiency, 497 
-pure, 551
-slotted, 496–498 
-successful slot, 497
-alternating-bit protocol, 241, 242 
-Alto computers, 518 
-Amazon, 93
-cloud services, 535, 536 
-DNS vulnerabilities, 165 
-video streaming, 173 
-Andreessen, Marc, 92 
-Android devices, 48 
-anomaly-based systems, 707 
-anonymity, 704–705
-anycast address, 378 
-AONs. See active optical networks
-Apache Web server, 223 
-API. See Application Programming Interface
-application architecture, 114 
+- ALOHAnet, 89, 91, 500 
+- ALOHA protocol, 498 
+   - carrier sense multiple access (CSMA), 499–501
+   - carrier sense multiple access with collision detection (CSMA/CD), 501–504
+   - efficiency, 497 
+   - pure, 551
+   - slotted, 496–498 
+   - successful slot, 497
+- alternating-bit protocol, 241, 242 
+- Alto computers, 518 
+- Amazon, 93
+   - cloud services, 535, 536 
+   - DNS vulnerabilities, 165 
+   - video streaming, 173 
+- Andreessen, Marc, 92 
+- Android devices, 48 
+- anomaly-based systems, 707 
+- anonymity, 704–705
+- anycast address, 378 
+- AONs. See active optical networks
+- Apache Web server, 223 
+- API. See Application Programming Interface
+- application architecture, 114 
 application delay, 73 
 application gateways, 698 
 application layer, 80, 111 
 application-layer message, 83 
-application-layer protocols, 124 
-DNS, 80 
-FTP, 80 
-HTTP, 80 
-Skype, 124 
-SMTP, 80
-application-level transport reliability, 227–228
-Application Programming Interface (API), 117
-application protocols, well-known, 218–219
-applications. See also multimedia applications; network applications
-bandwidth-sensitive, 119 
-control, 444–446 delays, 73 
-distributed, 35 
-elastic, 120
-loss-tolerant, 119 
-multimedia, 226 
-network, 112–125 
-network-service, 450 
-SDN control, 444–446
-APs. See access points 
-AQM. See active queue management
-architectural evolution from 2G to 3G to 4G, 598–599
-ARP. See Address Resolution Protocol
-ARPA. See Advanced Research Projects Agency
-ARPAnet, 258
-ALOHAnet connection to, 89 
-Cerf on, 405
-development of, 89–92 
-routing algorithms, 413, 420
-ARP packet, 583 ARP protocol, 545 
-ARP query, 545 
-ARP reply, 545 
-ARP table, 512
-ARQ (Automatic Repeat reQuest) protocols, 234
-ASN. See autonomous system number
-AS numbers. See autonomous system number
-AS-PATH, 433, 435 ASs. See autonomous systems associate, 533 associations
-IEEE 802.11 wireless LAN, 575–578
-security, 683–685 
-Atheros AR5006, 483 
-ATM
-congestion control, 292 
-delay and bandwidth guarantees, 340
-frame-relay and, 532 
-SDN and, 449
-ATM Available Bite Rate (ABR), 292
-congestion control, 292
-AT&T, 62, 410, 476 
-authentication, 428 
-end-point, 87–88, 639 
-4G/5G cellular networks, 694–697
-4G LTE cellular networks, 596, 694–697 
-MD5, 428 mutual, 690 
-in OSPF, 428 sender, 639
-shared common secret, 691 
-simple, 428
-wireless LANs, 690
-Authentication and Key Agreement (AKA) protocol
-4G, 695
-Authentication Header (AH) protocol, 683
-authentication key, 657 authentication protocol, 666–669
-authentication server (AS), 690 
-authoritative DNS servers, 157, 546
-autonomous system number (ASN), 426
-autonomous systems (ASs), 426 
-in BGP route advertisement, 430–432
-hierarchy within, 428–429 
-iBGP connections within, 431 
-routing between, 425–429, 439, 450
-availability zones, 542 average throughput, 74 Azure, 94
+- application-layer protocols, 124 
+   - DNS, 80 
+   - FTP, 80 
+   - HTTP, 80 
+   - Skype, 124 
+   - SMTP, 80
+- application-level transport reliability, 227–228
+- Application Programming Interface (API), 117
+- application protocols, well-known, 218–219
+- applications. See also multimedia applications; network applications
+   - bandwidth-sensitive, 119 
+   - control, 444–446 delays, 73 
+   - distributed, 35 
+   - elastic, 120
+   - loss-tolerant, 119 
+   - multimedia, 226 
+   - network, 112–125 
+   - network-service, 450 
+   - SDN control, 444–446
+- APs. See access points 
+- AQM. See active queue management
+- architectural evolution from 2G to 3G to 4G, 598–599
+- ARP. See Address Resolution Protocol
+- ARPA. See Advanced Research Projects Agency
+- ARPAnet, 258
+   - ALOHAnet connection to, 89 
+   - Cerf on, 405
+   - development of, 89–92 
+   - routing algorithms, 413, 420
+- ARP packet, 583 ARP protocol, 545 
+- ARP query, 545 
+- ARP reply, 545 
+- ARP table, 512
+- ARQ (Automatic Repeat reQuest) protocols, 234
+- ASN. See autonomous system number
+- AS numbers. See autonomous system number
+- AS-PATH, 433, 435
+- ASs. See autonomous systems 
+- associate, 533 
+- associations
+   - IEEE 802.11 wireless LAN, 575–578
+   - security, 683–685 
+- Atheros AR5006, 483 
+- ATM
+   - congestion control, 292 
+   - delay and bandwidth guarantees, 340
+   - frame-relay and, 532 
+   - SDN and, 449
+- ATM Available Bite Rate (ABR), 292
+   - congestion control, 292
+- AT&T, 62, 410, 476 
+- authentication, 428 
+   - end-point, 87–88, 639 
+   - 4G/5G cellular networks, 694–697
+   - 4G LTE cellular networks, 596, 694–697 
+   - MD5, 428 mutual, 690 
+   - in OSPF, 428 sender, 639
+   - shared common secret, 691 
+   - simple, 428
+   - wireless LANs, 690
+- Authentication and Key Agreement (AKA) protocol
+   - 4G, 695
+- Authentication Header (AH) protocol, 683
+- authentication key, 657
+- authentication protocol, 666–669
+- authentication server (AS), 690 
+- authoritative DNS servers, 157, 546
+- autonomous system number (ASN), 426
+- autonomous systems (ASs), 426 
+   - in BGP route advertisement, 430–432
+   - hierarchy within, 428–429 
+   - iBGP connections within, 431 
+   - routing between, 425–429, 439, 450
+- availability zones, 542 
+- average throughput, 74 
+- Azure, 94
 
 # B
 
-B4, 410, 447 
-backbone providers, 438
-backoff
-binary exponential, 503 
-random, 580 
-bandwidth, 58–59 
-ATM guarantees, 340 
-best-effort service and, 340 
-channel, 603
-congestion control and, 295 
-DoS, 706
-downstream, 602 
-fairness and, 306–309 
-flooding, 85 
-FM radio, 58
-guaranteed minimal, 339–340 
-memory, 347 probing, 295, 301 
-wireless, 576 
-Baran, Paul, 89 
-base HTML file, 126 
-base station, 563, 593, 594 
-basic service set (BSS), 574 
-BBN, 89 
-BBR. See TCP BBR beacon frames, 546 
-beam forming, 607 
-Bellman-Ford equation, 418–419
-Bellovin, Steven M., 719 
-BER. See bit error rate 
-Berners-Lee, Tim, 92 
-best-effort delivery services, 216
-best-effort services, 340 
-BGP, 546. See also Border Gateway Protocol
-bidirectional data transfer, 232
-binary exponential backoff algorithm, 503
-bind(), 219 
-bit error rate (BER), 567
-bit errors
-data transfer over channel with, 233–238
-data transfer over lossy channel with, 238–241
-bit-level error detection and correction, 484
-BITNET, 91 BitTorrent
-chunks, 170 DHT, 173
-file distribution with, 171 
-optimistically unchoked, 172 
-rarest first, 172 
-torrent, defined, 170 
-tracker, 171 
-unchoked, 172 
-blades, 535 
-block ciphers 3-bit, 645
-full-table, 645 
-k-bit block, 644 
-Bluetooth
-as cable replacement technology, 590 
-neighbor discovery problem, 592 
-paging, 592 
-piconet, 591
-self-organizing, 592
-standards, transmission rates, and range, 564
-Boggs, David, 515
-Border Gateway Protocol (BGP), 407, 413, 420, 429–441, 546 
-attributes, 432–433 
-connection, 431
-determining best routes, 432–436 
-in Google SDN, 447 
-hot potato routing, 434–435 
-internal BGP, 431–432 
-IP-anycast implementation with, 436–437
-outside-AS destinations, 434 
-role of, 429–430 
-route attributes, 433
-route information advertisement, 430–432
-route-selection algorithm, 435–436
-routing policy, 437–440 
-routing tables, 435–436 
-border routers, 428–429, 536 
-botnets, 85
-bottleneck link, 75 
-TCP fairness and, 306–308
-bounded delay, 339 
-bright line rules, 358 
-broadband Internet, 93 
-broadcast
-in ALOHA, 91 
-Ethernet as, 519 
-forwarding to, 387 
-link, 491
-link-state, 413, 425 
-MAC address, 510
-multiple access protocols, 492 
-in OSPF, 427–428 
-packet sniffing and, 87 
-broadcast address, 510 
-IP, 370, 372–373 
-MAC, 510
-broadcast link, 491 
-broadcast media, 331 
-broadcast storms, 526 
-Brooks, Fred, 719 
-browsers, 92, 126 
-BS. See base station 
-bufferbloat, 354
-buffered distributors, 520 
-buffering, 353–354
-buffer overflows, congestion causing, 290–291
-buffers 
-finite, 288 
-infinite, 286 
-output, 54
-receive, 259, 277, 278 
-send, 259
-sizing for routers, 353
-TCP, 130
-Bush, Vannevar, 92 
-bus, switching via, 348
+- B4, 410, 447 
+- backbone providers, 438
+- backoff
+   - binary exponential, 503 
+   - random, 580 
+- bandwidth, 58–59 
+   - ATM guarantees, 340 
+   - best-effort service and, 340 
+   - channel, 603
+   - congestion control and, 295 
+   - DoS, 706
+   - downstream, 602 
+   - fairness and, 306–309 
+   - flooding, 85 
+   - FM radio, 58
+   - guaranteed minimal, 339–340 
+   - memory, 347 probing, 295, 301 
+   - wireless, 576 
+- Baran, Paul, 89 
+- base HTML file, 126 
+- base station, 563, 593, 594 
+- basic service set (BSS), 574 
+- BBN, 89 
+- BBR. See TCP BBR 
+- beacon frames, 546 
+- beam forming, 607 
+- Bellman-Ford equation, 418–419
+- Bellovin, Steven M., 719 
+- BER. See bit error rate 
+- Berners-Lee, Tim, 92 
+- best-effort delivery services, 216
+- best-effort services, 340 
+- BGP, 546. See also Border Gateway Protocol
+- bidirectional data transfer, 232
+- binary exponential backoff algorithm, 503
+- bind(), 219 
+- bit error rate (BER), 567
+- bit errors
+   - data transfer over channel with, 233–238
+   - data transfer over lossy channel with, 238–241
+- bit-level error detection and correction, 484
+- BITNET, 91 
+- BitTorrent
+   - chunks, 170 
+   - DHT, 173
+   - file distribution with, 171 
+   - optimistically unchoked, 172 
+   - rarest first, 172 
+   - torrent, defined, 170 
+   - tracker, 171 
+   - unchoked, 172 
+- blades, 535 
+- block ciphers 
+   - 3-bit, 645
+   - full-table, 645 
+   - k-bit block, 644 
+- Bluetooth
+   - as cable replacement technology, 590 
+   - neighbor discovery problem, 592 
+   - paging, 592 
+   - piconet, 591
+   - self-organizing, 592
+   - standards, transmission rates, and range, 564
+- Boggs, David, 515
+- Border Gateway Protocol (BGP), 407, 413, 420, 429–441, 546 
+   - attributes, 432–433 
+   - connection, 431
+   - determining best routes, 432–436 
+   - in Google SDN, 447 
+   - hot potato routing, 434–435 
+   - internal BGP, 431–432 
+   - IP-anycast implementation with, 436–437
+   - outside-AS destinations, 434 
+   - role of, 429–430 
+   - route attributes, 433
+   - route information advertisement, 430–432
+   - route-selection algorithm, 435–436
+   - routing policy, 437–440 
+   - routing tables, 435–436 
+- border routers, 428–429, 536 
+- botnets, 85
+- bottleneck link, 75 
+   - TCP fairness and, 306–308
+- bounded delay, 339 
+- bright line rules, 358 
+- broadband Internet, 93 
+- broadcast
+   - in ALOHA, 91 
+   - Ethernet as, 519 
+   - forwarding to, 387 
+   - link, 491
+   - link-state, 413, 425 
+   - MAC address, 510
+   - multiple access protocols, 492 
+   - in OSPF, 427–428 
+   - packet sniffing and, 87 
+- broadcast address, 510 
+   - IP, 370, 372–373 
+   - MAC, 510
+- broadcast link, 491 
+- broadcast media, 331 
+- broadcast storms, 526 
+- Brooks, Fred, 719 
+- browsers, 92, 126 
+- BS. See base station 
+- bufferbloat, 354
+- buffered distributors, 520 
+- buffering, 353–354
+- buffer overflows, congestion causing, 290–291
+- buffers 
+   - finite, 288 
+   - infinite, 286 
+   - output, 54
+   - receive, 259, 277, 278 
+   - send, 259
+   - sizing for routers, 353
+   - TCP, 130
+- Bush, Vannevar, 92 
+- bus, switching via, 348
 
 # C
 
