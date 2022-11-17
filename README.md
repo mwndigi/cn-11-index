@@ -1816,8 +1816,10 @@ connectionless, 219–220
 
 # S
 
-- SA. See security association SAD. See Security Association Database
-- SAL. See Service Abstraction Layer SampleRTT, 266
+- SA. See security association 
+- SAD. See Security Association Database
+- SAL. See Service Abstraction Layer 
+- SampleRTT, 266
 - satellite radio channels, 51 
 - Scantlebury, Roger, 89 
 - SCTP. See Stream Control Transmission Protocol
