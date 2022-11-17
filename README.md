@@ -136,10 +136,10 @@ acknowledgments
 - Apache Web server, 223 
 - API. See Application Programming Interface
 - application architecture, 114 
-application delay, 73 
-application gateways, 698 
-application layer, 80, 111 
-application-layer message, 83 
+- application delay, 73 
+- application gateways, 698 
+- application layer, 80, 111 
+- application-layer message, 83 
 - application-layer protocols, 124 
    - DNS, 80 
    - FTP, 80 
@@ -1004,165 +1004,164 @@ connectionless, 219–220
 # I
 
 - IANA, 378 
-iBGP. See internal BGP 
-IBM, 90 
-ICANN. See Internet Corporation for Assigned Names and Numbers
-ICMP. See Internet Control Message Protocol
-IEEE 802.11ac, 573 
-IEEE 802.11ax, 573 
-IEEE 802.11b, 573 
-IEEE 802.11g, 573
-IEEE 802 LAN/MAN Standards Committee, 35 
-IEEE 802.11n, 573
-IEEE 802.11 wireless LAN, 47, 573 
-address fields, 584–586 
-advanced features in, 589–590 
-architecture, 574–578
-channels and association, 575–578 
-clear to send (CTS) control frame, 581
-collision avoidance, 582 
-duration, 586
-frame control fields, 586 
-frames, 583–586
-hidden terminals, dealing with, 581–583
-link-layer acknowledgments, 579 
-MAC protocol, 578–583 
-mobility in same IP subnet, 586–588
-payload and CRC fields, 583–584 
-personal area networks, 590–592 
-as point-to-point link, 583 
-power management, 590 
-public access, 93
-rate adaptation, 589–590 
-request to send (RTS) control, 581 
-sequence number, 586 
-standards, 573
-IETF. See Internet Engineering Task Force
-IKE. See Internet Key Exchange 
-IKE SA, 688 
-IMAP. See Internet Mail Access Protocol
-indirect routing approach, 613 
-information propagation, 331 
-infrastructure mode, 564 
-infrastructure wireless LANs, 574 
-Initialization Vector (IV), 647 
-in-order packet delivery, 339 
-input port, 342
-input port processing, 344–346 
-forwarding tables in, 345–346
-input queuing, 350
-insertion, message content, 640 
-instantaneous throughput, 73 
-Intel Ethernet, 518
-intelligent software agents, 109 
-inter-area routing, 428–429 
-inter-autonomous system routing protocol, 429, 439 
-interconnection networks switching via, 348–349 
-inter-domain protocol, 546 interface, 364
-SDN controller, 444–445 
-socket, 36
-internal BGP (iBGP), 431–432 
-internal router, 430
-International Mobile Subscriber Identity (IMSI), 594
-International Telecommunication Union (ITU), 663
-Internet. See also access networks
-architectural principles of, 391 
-best-effort service in, 340 
-broadband, 93 
-Cerf on, 405–406 
-commercialization of, 92 
-components of, 32–35 
-DNS and presence on, 440–441 
-enterprise access, 46–47 
-history of, 88–94 
-home access, 43–46 
-network core, 52 
-network edges, 39–41 
-network layer, 340
-obtaining presence on, 440–441 
-registries, 370
-router self-synchronization, 417 
-routing algorithms used in, 413 
-as service infrastructure, 35–37 
-transport layer, 215–217
-Internet applications, transport protocols used by, 227 
-Internet checksum, 488
-Internet-connected smartphones, 93 
-Internet Control Message Protocol (ICMP), 453–455, 461 
-IPv6 and, 455 
-message types, 454
-Internet Corporation for Assigned Names and Numbers (ICANN), 164, 370, 426
-Internet Engineering Task Force (IETF), 35, 377
-Internet Exchange Points (IXPs), 63–64
-internet key exchange (IKE) protocol, 688
-Internet Mail Access Protocol (IMAP), 152
-Internet Protocol (IP), 35, 81, 405 
-ICMP and, 453 
-mobile, 622–624 
-service model, 216 stack for, 80
-total annual traffic using, 34 
-transition to, 91
-Internet Protocol Packet eXchange (IPX) Network, 605 
-Internet registrars, 440 
-Internet Service Providers (ISPs), 34–35 
-access, 62
-backbone, 438
-AS configurations, 426 
-global transit, 62 multi-home, 63
-multi-homed access, 438 
-peering agreements among, 438–439
-PoP, 63 routing among, 429–44
-Internet standards, 35
-Internet Systems Consortium, 374 
-Internet telephony, 123 
-internetworking, 89–91
-intra-autonomous system routing, 425–429, 439 
-SDN in, 450
-intruder, security attacks, 640 
-intrusion detection system (IDS), 377, 639, 705–708
-intrusion prevention systems (IPSs), 377, 706
-Intserv, 340 
-IP. See Internet Protocol 
-IP addresses, 92, 118, 153, 363–374, 378
-broadcast, 370, 372–373 
-classes of, 367–368 
-DHCP, 371–374
-Internet presence and, 440 
-IPv4, 363–374 
-IPv6, 378
-NAT and, 374–376
-obtaining blocks of, 370–371 
-temporary, 371 
-IP-anycast, 436–437 
-IP datagram, 543 
-IP forwarding table, 544 
-IP fragmentation, 380 
-IPv6, 380 
-iPhones, 48
-IP hourglass, 392–393 
-IPsec, 681–683
-IPsec datagram, 685–687 
-IP spoofing, 87–88 
-IPSs. See intrusion prevention systems 
-IP traffic, volume of, 34 
-IPv4
-addressing, 363–374 
-datagram format, 361–363 
-transitioning to IPv6 from, 381–383
-IPv6, 377 
-adoption of, 381–382 
-datagram format, 378–380 
-ICMP, 455
-transitioning to, 381–383 
-tunneling, 381–382 
-IPX, 420
-IS-IS, 426, 447, 546 
-ISO IDRP, 420 
-ISPs. See Internet Service Providers iterative queries, 160 
-ITU. See International
-Telecommunication Union
-IV. See Initialization Vector 
-IXPs. See Internet Exchange Points
+- iBGP. See internal BGP 
+- IBM, 90 
+- ICANN. See Internet Corporation for Assigned Names and Numbers
+- ICMP. See Internet Control Message Protocol
+- IEEE 802.11ac, 573 
+- IEEE 802.11ax, 573 
+- IEEE 802.11b, 573 
+- IEEE 802.11g, 573
+- IEEE 802 LAN/MAN Standards Committee, 35 
+- IEEE 802.11n, 573
+- IEEE 802.11 wireless LAN, 47, 573 
+   - address fields, 584–586 
+   - advanced features in, 589–590 
+   - architecture, 574–578
+   - channels and association, 575–578 
+   - clear to send (CTS) control frame, 581
+   - collision avoidance, 582 
+   - duration, 586
+   - frame control fields, 586 
+   - frames, 583–586
+   - hidden terminals, dealing with, 581–583
+   - link-layer acknowledgments, 579 
+   - MAC protocol, 578–583 
+   - mobility in same IP subnet, 586–588
+   - payload and CRC fields, 583–584 
+   - personal area networks, 590–592 
+   - as point-to-point link, 583 
+   - power management, 590 
+   - public access, 93
+   - rate adaptation, 589–590 
+   - request to send (RTS) control, 581 
+   - sequence number, 586 
+   - standards, 573
+- IETF. See Internet Engineering Task Force
+- IKE. See Internet Key Exchange 
+- IKE SA, 688 
+- IMAP. See Internet Mail Access Protocol
+- indirect routing approach, 613 
+- information propagation, 331 
+- infrastructure mode, 564 
+- infrastructure wireless LANs, 574 
+- Initialization Vector (IV), 647 
+- in-order packet delivery, 339 
+- input port, 342
+- input port processing, 344–346 
+- forwarding tables in, 345–346
+- input queuing, 350
+- insertion, message content, 640 
+- instantaneous throughput, 73 
+- Intel Ethernet, 518
+- intelligent software agents, 109 
+- inter-area routing, 428–429 
+- inter-autonomous system routing protocol, 429, 439 
+- interconnection networks switching via, 348–349 
+- inter-domain protocol, 546 interface, 364
+   - SDN controller, 444–445 
+   - socket, 36
+- internal BGP (iBGP), 431–432 
+- internal router, 430
+- International Mobile Subscriber Identity (IMSI), 594
+- International Telecommunication Union (ITU), 663
+- Internet. See also access networks
+   - architectural principles of, 391 
+   - best-effort service in, 340 
+   - broadband, 93 
+   - Cerf on, 405–406 
+   - commercialization of, 92 
+   - components of, 32–35 
+   - DNS and presence on, 440–441 
+   - enterprise access, 46–47 
+   - history of, 88–94 
+   - home access, 43–46 
+   - network core, 52 
+   - network edges, 39–41 
+   - network layer, 340
+   - obtaining presence on, 440–441 
+   - registries, 370
+   - router self-synchronization, 417 
+   - routing algorithms used in, 413 
+   - as service infrastructure, 35–37 
+   - transport layer, 215–217
+- Internet applications, transport protocols used by, 227 
+- Internet checksum, 488
+- Internet-connected smartphones, 93 
+- Internet Control Message Protocol (ICMP), 453–455, 461 
+   - IPv6 and, 455 
+   - message types, 454
+- Internet Corporation for Assigned Names and Numbers (ICANN), 164, 370, 426
+- Internet Engineering Task Force (IETF), 35, 377
+- Internet Exchange Points (IXPs), 63–64
+- internet key exchange (IKE) protocol, 688
+- Internet Mail Access Protocol (IMAP), 152
+- Internet Protocol (IP), 35, 81, 405 
+   - ICMP and, 453 
+   - mobile, 622–624 
+   - service model, 216 stack for, 80
+   - total annual traffic using, 34 
+   - transition to, 91
+- Internet Protocol Packet eXchange (IPX) Network, 605 
+- Internet registrars, 440 
+- Internet Service Providers (ISPs), 34–35 
+   - access, 62
+   - backbone, 438
+   - AS configurations, 426 
+   - global transit, 62 multi-home, 63
+   - multi-homed access, 438 
+   - peering agreements among, 438–439
+   - PoP, 63 routing among, 429–44
+- Internet standards, 35
+- Internet Systems Consortium, 374 
+- Internet telephony, 123 
+- internetworking, 89–91
+- intra-autonomous system routing, 425–429, 439 
+   - SDN in, 450
+- intruder, security attacks, 640 
+- intrusion detection system (IDS), 377, 639, 705–708
+- intrusion prevention systems (IPSs), 377, 706
+- Intserv, 340 
+- IP. See Internet Protocol 
+- IP addresses, 92, 118, 153, 363–374, 378
+   - broadcast, 370, 372–373 
+   - classes of, 367–368 
+   - DHCP, 371–374
+   - Internet presence and, 440 
+   - IPv4, 363–374 
+   - IPv6, 378
+   - NAT and, 374–376
+   - obtaining blocks of, 370–371 
+   - temporary, 371 
+- IP-anycast, 436–437 
+- IP datagram, 543 
+- IP forwarding table, 544 
+- IP fragmentation, 380 
+   - IPv6, 380 
+- iPhones, 48
+- IP hourglass, 392–393 
+- IPsec, 681–683
+- IPsec datagram, 685–687 
+- IP spoofing, 87–88 
+- IPSs. See intrusion prevention systems 
+- IP traffic, volume of, 34 
+- IPv4
+   - addressing, 363–374 
+   - datagram format, 361–363 
+   - transitioning to IPv6 from, 381–383
+- IPv6, 377 
+   - adoption of, 381–382 
+   - datagram format, 378–380 
+   - ICMP, 455
+   - transitioning to, 381–383 
+   - tunneling, 381–382 
+- IPX, 420
+- IS-IS, 426, 447, 546 
+- ISO IDRP, 420 
+- ISPs. See Internet Service Providers iterative queries, 160 
+- ITU. See International Telecommunication Union
+- IV. See Initialization Vector 
+- IXPs. See Internet Exchange Points
 
 # J
 
@@ -1272,471 +1271,608 @@ IXPs. See Internet Exchange Points
 
 # M
 
-MAC. See message authentication code
-MAC addresses, 508 
-and ARP, 508–513 
-subnets, 513–514 
-mail servers, 146 
-aliasing, 154 
-malware, 84–85 
-self-replicating, 85 
-managed device, 456 
-managed objects, 461
-Management Information Base (MIB), 458–462
-managing server, 456 
-MANETs. See mobile ad hoc networks
-manifest file, HTTP, 175 
-massive machine type communications (mMTC), 606 
-match-plus-action, 346 
-forwarding table, 384 
-in generalized forwarding, 383–384
-OpenFlow, 387–390 
-match-plus-action flow tables, 449
-maximum segment size (MSS), 259 
-negotiating, 260
-maximum transmission unit (MTU), 259, 465–466
-MD5 authentication, 428 
-MD5 hash algorithm, 656 
-medium access control (MAC), 601 
-memory
-access times, 346 
-bandwidth of, 347 
-switching via, 347–348
-message authentication code (MAC), 656–658
-broadcast address, 510 
-digital signatures, 658–661 
-message integrity, 638–639, 654–664, 670
-message queue, 147 
-messages, 53, 80 
-application-layer, 83 c
-omplexity in LS algorithms, 424–425
-DHCP, 372–373 
-HELLO, 428 
-OpenFlow, 449 
-port-status, 449
-source quench, 453–454 
-Metcalfe,Bob, 515, 518 
-MIB. See Management Information Base
-Microsoft, 93
-private network, 94 
-Microsoft Research, 410 
-Microsoft’s Azure, 94
-middleboxes, 340, 376, 390–391 
-millimeter wave frequencies, 606 
-Minitel, 92 
-MME. See Mobility Management Entity
-mobile ad hoc networks (MANETs), 565
-mobile devices, 593, 594
-mobile-device-to-PDN-gateway data path configuration, 603 
-mobile nodes, DHCP and, 374 
-Mobility management device mobility, 608–609 
-direct and indirect routing to/from a mobile device, 610–611
-direct routing to mobile device, 615–616
-in 4G/5G networks, 617–622 
-home networks and roaming on visited networks, 609–610 
-indirect routing to mobile device, 613–615
-IP address infrastructure, 611–613
-mobile IP, 622–624 
-in practice, 617–624 
-wireless and, 624–626
-mobility management entity (MME), 596, 603
-modification, message content, 640 
-modify-field action, 387 
-monoalphabetic cipher, 642 
-Mosaic Communications, 92 
-MOSPF. See multicast OSPF 
-MP3, 75
-multicast OSPF (MOSPF), 428 
-multicast routing in OSPF, 428 
-multi-home, 63
-multi-homed access ISP, 438 
-Multi-hop, infrastructure-based networks, 565
-Multi-hop, infrastructure-less networks, 565
-multihop path, 289–291 
-multimedia applications TCP use by, 226 
-UDP use by, 226–227
-multipath propagation, 566 
-multiple access problem, 491 
-multiple access protocols, 492 
-multiple same-cost paths, in OSPF, 428
-multiplexing, 217–224 
-connectionless, 219–220
- connection-oriented, 220–223 
-transport-layer, 216
-multiprotocol label switching (MPLS) networks, 531–534
-mutual authentication, 603, 689 
+- MAC. See message authentication code
+- MAC addresses, 508 
+   - and ARP, 508–513 
+   - subnets, 513–514 
+- mail servers, 146 
+   - aliasing, 154 
+- malware, 84–85 
+   - self-replicating, 85 
+- managed device, 456 
+- managed objects, 461
+- Management Information Base (MIB), 458–462
+- managing server, 456 
+- MANETs. See mobile ad hoc networks
+- manifest file, HTTP, 175 
+- massive machine type communications (mMTC), 606 
+- match-plus-action, 346 
+   - forwarding table, 384 
+   - in generalized forwarding, 383–384
+   - OpenFlow, 387–390 
+- match-plus-action flow tables, 449
+- maximum segment size (MSS), 259 
+   - negotiating, 260
+- maximum transmission unit (MTU), 259, 465–466
+- MD5 authentication, 428 
+- MD5 hash algorithm, 656 
+- medium access control (MAC), 601 
+- memory
+   - access times, 346 
+   - bandwidth of, 347 
+   - switching via, 347–348
+- message authentication code (MAC), 656–658
+   - broadcast address, 510 
+   - digital signatures, 658–661 
+- message integrity, 638–639, 654–664, 670
+- message queue, 147 
+- messages, 53, 80 
+   - application-layer, 83 c
+   - omplexity in LS algorithms, 424–425
+   - DHCP, 372–373 
+   - HELLO, 428 
+   - OpenFlow, 449 
+   - port-status, 449
+   - source quench, 453–454 
+- Metcalfe,Bob, 515, 518 
+- MIB. See Management Information Base
+- Microsoft, 93
+   - private network, 94 
+- Microsoft Research, 410 
+- Microsoft’s Azure, 94
+- middleboxes, 340, 376, 390–391 
+- millimeter wave frequencies, 606 
+- Minitel, 92 
+- MME. See Mobility Management Entity
+- mobile ad hoc networks (MANETs), 565
+- mobile devices, 593, 594
+- mobile-device-to-PDN-gateway data path configuration, 603 
+- mobile nodes, DHCP and, 374 
+- Mobility management 
+   - device mobility, 608–609 
+   - direct and indirect routing to/from a mobile device, 610–611
+   - direct routing to mobile device, 615–616
+   - in 4G/5G networks, 617–622 
+   - home networks and roaming on visited networks, 609–610 
+   - indirect routing to mobile device, 613–615
+   - IP address infrastructure, 611–613
+   - mobile IP, 622–624 
+   - in practice, 617–624 
+   - wireless and, 624–626
+- mobility management entity (MME), 596, 603
+- modification, message content, 640 
+- modify-field action, 387 
+- monoalphabetic cipher, 642 
+- Mosaic Communications, 92 
+- MOSPF. See multicast OSPF 
+- MP3, 75
+- multicast OSPF (MOSPF), 428 
+- multicast routing in OSPF, 428 
+- multi-home, 63
+- multi-homed access ISP, 438 
+- Multi-hop, infrastructure-based networks, 565
+- Multi-hop, infrastructure-less networks, 565
+- multihop path, 289–291 
+- multimedia applications 
+   - TCP use by, 226 
+   - UDP use by, 226–227
+- multipath propagation, 566 
+- multiple access problem, 491 
+- multiple access protocols, 492 
+- multiple same-cost paths, in OSPF, 428
+- multiplexing, 217–224 
+   - connectionless, 219–220
+   - connection-oriented, 220–223 
+   - transport-layer, 216
+- multiprotocol label switching (MPLS) networks, 531–534
+- mutual authentication, 603, 689 
 
 # N
 
-NAK (negative acknowledgments), 234–238
-corrupted, 236
-narrow waist, 392, 393 
-NASA, 406 
-NAT. See network address translation; network address translator
-National Physical Laboratory, 89 
-NAT translation table, 376 
-NAT traversal, 376 
-NCP. See network-control protocol 
-NCS. See network control server 
-negative acknowledgments, 234 
-neighbor, 411
-neighboring peers, 171 
-Nelson, Ted, 92 
-Netflix
-CDN and, 180–182 
-components, 181
-DNS vulnerabilities, 165 
-video streaming, 173, 180 
-net neutrality, 357–358
-Netscape Communications, 92–93 
-network adapter, 483, 484 
-network address translation (NAT), 374–376, 383, 390
-network address translator (NAT), 346
-network applications principles, 112–125
-network-assisted congestion control, 292, 293
-network attachment, 602 
-Network Configuration Protocol (NETCONF), 458, 462–466 
-managed network devices, 462 
-MTU, 465–466 
-operations, 464 
-session, 463
-XML format, 464–465 
-network control functions, in SDN, 442
-network-control protocol (NCP), 89, 91
-network control server (NCS), 447 
-network core, 52
-circuit switching, 57–61 
-network of networks, 61–64 
-packet switching, 53–56, 60–61
-network functions virtualization (NFV), 391, 450
-Network Information Base (NIB), 447
-network infrastructure, 565 
-network interface controller (NIC), 483
-network layer, 81. See also control plane; data plane best-effort service, 340 
-forwarding and routing, 334–339
-security, 340 services, 339–340
-transport layer relationship to, 212–215
-network-layer datagram, 83
-network-layer security AH protocols, 683 
-ESP protocols, 683
-internet key exchange (IKE) protocol, 688 
-IPsec, 681–683
-IPsec datagram, 685–687 
-security associations, 683–685 
-virtual private networks (VPNs), 681–683
-network management, 455–466 
-defining, 455
-framework for, 456–458 
-network management agent, 456 
-network management protocol, 457 
-network managers, 456 
-network of networks, 61–64, 91 
-network operations center (NOC), 456 
-network prefix, 366 network protocols, 38–39 
-networks. See also access networks; cellular networks; Internet; local area network; wireless networks attacks against, 84–88 
-cellular, 48
-content provider, 64 
-edges, 39–41 
-packet-radio, 89 
-packet-satellite, 89 
-private, 64, 94, 374, 410 
-programmable, 442 
-proliferation of, 91–92 
-proprietary, 89–91 
-provider, 438
-throughput in, 73–76 
-network security, 638–640 
-network service model, 339–340 
-NEXT-HOP, 433–435 
-NFV. See network functions virtualization
-NIB. See Network Information Base
-NIST, 381
-nmap, 222, 285 
-NOC. See network operations center 
-nodal delay, 66
-nodal processing delay, 65 
-node, 480
-non-blocking switches, 348 
-nonce, 668
-non-persistent connections, 128 
-non-preemptive priority queuing, 357 
-Novell IPX, 420
-NOX controller, 446, 450 
-NSFNET, 91, 92 
-nslookup program, 164 
-NTT, 62
+- NAK (negative acknowledgments), 234–238
+   - corrupted, 236
+- narrow waist, 392, 393 
+- NASA, 406 
+- NAT. See network address translation; network address translator
+- National Physical Laboratory, 89 
+- NAT translation table, 376 
+- NAT traversal, 376 
+- NCP. See network-control protocol 
+- NCS. See network control server 
+- negative acknowledgments, 234 
+- neighbor, 411
+- neighboring peers, 171 
+- Nelson, Ted, 92 
+- Netflix
+   - CDN and, 180–182 
+   - components, 181
+   - DNS vulnerabilities, 165 
+   - video streaming, 173, 180 
+- net neutrality, 357–358
+- Netscape Communications, 92–93 
+- network adapter, 483, 484 
+- network address translation (NAT), 374–376, 383, 390
+- network address translator (NAT), 346
+- network applications principles, 112–125
+- network-assisted congestion control, 292, 293
+- network attachment, 602 
+- Network Configuration Protocol (NETCONF), 458, 462–466 
+   - managed network devices, 462 
+   - MTU, 465–466 
+   - operations, 464 
+   - session, 463
+   - XML format, 464–465 
+- network control functions, in SDN, 442
+- network-control protocol (NCP), 89, 91
+- network control server (NCS), 447 
+- network core, 52
+   - circuit switching, 57–61 
+   - network of networks, 61–64 
+   - packet switching, 53–56, 60–61
+- network functions virtualization (NFV), 391, 450
+- Network Information Base (NIB), 447
+- network infrastructure, 565 
+- network interface controller (NIC), 483
+- network layer, 81. See also control plane; data plane
+   - best-effort service, 340 
+   - forwarding and routing, 334–339
+   - security, 340 services, 339–340
+   - transport layer relationship to, 212–215
+- network-layer datagram, 83
+- network-layer security AH protocols, 683 
+   - ESP protocols, 683
+   - internet key exchange (IKE) protocol, 688 
+   - IPsec, 681–683
+   - IPsec datagram, 685–687 
+   - security associations, 683–685 
+   - virtual private networks (VPNs), 681–683
+- network management, 455–466 
+   - defining, 455
+   - framework for, 456–458 
+- network management agent, 456 
+- network management protocol, 457 
+- network managers, 456 
+- network of networks, 61–64, 91 
+- network operations center (NOC), 456 
+- network prefix, 366 network protocols, 38–39 
+- networks. See also access networks; cellular networks; Internet; local area network; wireless networks 
+   - attacks against, 84–88 
+   - cellular, 48
+   - content provider, 64 
+   - edges, 39–41 
+   - packet-radio, 89 
+   - packet-satellite, 89 
+   - private, 64, 94, 374, 410 
+   - programmable, 442 
+   - proliferation of, 91–92 
+   - proprietary, 89–91 
+   - provider, 438
+   - throughput in, 73–76 
+- network security, 638–640 
+- network service model, 339–340 
+- NEXT-HOP, 433–435 
+- NFV. See network functions virtualization
+- NIB. See Network Information Base
+- NIST, 381
+- nmap, 222, 285 
+- NOC. See network operations center 
+- nodal delay, 66
+- nodal processing delay, 65 
+- node, 480
+- non-blocking switches, 348 
+- nonce, 668
+- non-persistent connections, 128 
+- non-preemptive priority queuing, 357 
+- Novell IPX, 420
+- NOX controller, 446, 450 
+- NSFNET, 91, 92 
+- nslookup program, 164 
+- NTT, 62
 
 # O
 
-OC. See Optical Carrier standard ODL’s Basic Network Functions, 450 
-OFA. See Open Flow Agent 
-OFC. See Open Flow Controller 
-OFDM. See orthogonal frequency division multiplexing 
-offered load, 288 
-OLT. See optical line terminator 
-one-bit even parity, 486 
-ONIX SDN controller, 447 
-ONOS, 446, 450, 452–453 
-ONT. See optical network terminator
-OpenDaylight, 446, 450–451 
-OpenDaylight controller, 451 
-OpenDaylight Lithium, 450 
-OpenFlow, 444, 446–449 
-action, 387 
-flow table, 384 match, 385–386
-match-plus-action, 387–390 
-Open Flow Agent (OFA), 447 
-Open Flow Controller (OFC), 447
-Open Shortest Path First (OSPF), 407, 413, 426–429, 546 
-authentication in, 428 
-broadcast in, 427–428 
-Dijkstra’s algorithm, 426 
-link weights, 427 
-multicast, 428 
-security and, 428 
-subnets, 426
-operational data, 456 
-operational security, 639 
-IDSs, 377
-Optical Carrier standard (OC), 50 
-optical line terminator (OLT), 46 
-optical network terminator (ONT), 46 
-options field, 260
-orthogonal frequency division multi-plexing (OFDM), 601
-OSPF. See Open Shortest Path First out-of-order packets, 249 
-output buffer, 54 
-output port, 342 
-forwarding to, 346
-output port processing, 349 
-output queue, 54
-output queuing, 351–353 
-outside-AS destinations, 434 
-OVSDB, 451
+- OC. See Optical Carrier standard ODL’s Basic Network Functions, 450 
+- OFA. See Open Flow Agent 
+- OFC. See Open Flow Controller 
+- OFDM. See orthogonal frequency division multiplexing 
+- offered load, 288 
+- OLT. See optical line terminator 
+- one-bit even parity, 486 
+- ONIX SDN controller, 447 
+- ONOS, 446, 450, 452–453 
+- ONT. See optical network terminator
+- OpenDaylight, 446, 450–451 
+- OpenDaylight controller, 451 
+- OpenDaylight Lithium, 450 
+- OpenFlow, 444, 446–449 
+   - action, 387 
+   -    - flow table, 384 match, 385–386
+   - match-plus-action, 387–390 
+- Open Flow Agent (OFA), 447 
+- Open Flow Controller (OFC), 447
+- Open Shortest Path First (OSPF), 407, 413, 426–429, 546 
+   - authentication in, 428 
+   - broadcast in, 427–428 
+   - Dijkstra’s algorithm, 426 
+   - link weights, 427 
+   - multicast, 428 
+   - security and, 428 
+   - subnets, 426
+- operational data, 456 
+- operational security, 639 
+   - IDSs, 377
+- Optical Carrier standard (OC), 50 
+- optical line terminator (OLT), 46 
+- optical network terminator (ONT), 46 
+- options field, 260
+- orthogonal frequency division multi-plexing (OFDM), 601
+- OSPF. See Open Shortest Path First out-of-order packets, 249 
+- output buffer, 54 
+- output port, 342 
+   - forwarding to, 346
+- output port processing, 349 
+- output queue, 54
+- output queuing, 351–353 
+- outside-AS destinations, 434 
+- OVSDB, 451
 
 # P
 
-packet data convergence, 600 
-Packet Data Network Gateway (P-GW), 595
-packet-dropping strategies, 352 
-packet filtering, 699 
-packet header overhead, 226 
-packet headers
-routing and, 336, 337 
-packet loss, 55, 71, 349 
-packet-marking strategies, 352 
-packet-radio networks, 89
-packets, 34, 53 choke, 292 control, 342
-deep inspection of, 377, 390 
-duplicate, 236 
-duplicate data, 240 
-forwarding, 336
-in-order delivery of, 339 
-out-of-order, 249
-packet-satellite networks, 89 
-packet scheduler, 353 
-packet scheduling FIFO, 355–356
-priority queuing, 356–357, 359 
-round robin, 359–360 
-WFQ, 359–360
-packet sniffer, 87, 106
-packet-switched networks, delays in, 65–76
-packet switches, 34, 53, 341 
-packet switching, 53–57, 108 
-circuit switching versus, 60–61 
-development of, 88–89 
-store-and-forward, 53–54 
-paging, 597
-pairwise communication, 331 
-parallel TCP connections, fairness and, 309
-parity bit, 486 
-parity checks, 486–488
-passive optical networks (PONs), 46 
-passive scanning, 576 
-path loss, 566 
-paths, 34, 411
-least-cost, 412, 414–416, 418–419 
-multihop, 289–291 
-multiple same-cost, 428 
-shortest, 412 
-Paxos, 447
-payload field, 83 
-PDUs. See protocol data units
-peering agreements, 438–439 
-peers, 63
-peer-to-peer (P2P) architecture, 114, 167–170
-BitTorrent, 170–173 
-chunks, 170 
-DHT, 173
-file distribution with, 171 
-optimistically unchoked, 172 
-rarest first, 172 
-torrent, defined, 170 
-tracker, 171 
-unchoked, 172
-per-connection throughput, 286–287 
-performance enhancement, 390 
-per-router control, 408–410, 466 
-persistent connections, 128 
-PGP. See Pretty Good Privacy 
-P-GW. See Packet Data Network Gateway
-Photobell, 108
-physical address, 508 
-physical layer, 82 
-physical media, 48–51 
-coaxial cable, 50 
-fiber optics, 50 
-satellite radio, 51 
-terrestrial radio, 51
-twisted-pair copper wire, 49–50 
-physical medium, 49 
-piconets, 591
-piggybacked acknowledgments, 265 
-ping, 453
-pipelined reliable data transfer proto-cols, 241, 243–245
-pipelining, 245 
-TCP, 267
-plaintext, 641, 642 
-playback attack, 668 
-plug-and-play, 371
-plug-and-play devices, 524
-points of presence (PoPs), 63 
-point-to-point connections, 257 
-point-to-point link, 491 
-Point-to-Point Protocol (PPP) MTU, 259
-poisoned reverse, 424 
-polling protocol, 504 
-polls, 504
-polyalphabetic encryption, 643, 644 
-polynomial codes, 489 
-PONs. See passive optical networks 
-PoPs. See points of presence 
-port numbers, 118, 184, 219–220 
-NAT and, 374–376 
-socket, 219–220 
-well-known, 218
-port scanning, 222 
-port-status message, 449 
-positive acknowledgments, 234 
-Pouzin, Louis, 90 
-PPP. See Point-to-Point Protocol 
-preamble, 517
-prefix, 345, 346, 366–368 
-Pretty Good Privacy (PGP), 673–674
-Prim’s algorithm, 413 
-priority queuing, 355–357, 359 
-non-preemptive, 357 
-privacy, 704–705 
-private key, 649
-private networks, 64, 94, 374, 410 
-processes, 115 
-server, 257
-transport layer protocols connecting, 212 
-processing delay, 66 
-programmable network, 442 
-propagation delay, 65, 67–69 
-proprietary networks, 89–91 
-protocol data units (PDUs), 459, 460 
-protocol layering, 79–80
-protocols, 35, 39. See also specific protocols
-defining, 37–39 
-network, 38–39 
-routing, 55–56 
-protocol stack, 80 
-provider, 62
-provider networks, 438 
-proxy server, 138 
-PSH bit, 261 
-public-key, 649
-public key certification, 662–664 
-public key encryption, 642, 648–654 
-Public Key Infrastructure (PKI), 661 
-pull protocol, 181
-pure ALOHA protocol, 551 
-push protocol, 182 
-Python
-port numbers, 219 
-UDP connections, 219
+- packet data convergence, 600 
+- Packet Data Network Gateway (P-GW), 595
+- packet-dropping strategies, 352 
+- packet filtering, 699 
+- packet header overhead, 226 
+- packet headers
+   - routing and, 336, 337 
+- packet loss, 55, 71, 349 
+- packet-marking strategies, 352 
+- packet-radio networks, 89
+- packets, 34, 53 choke, 292 control, 342
+   - deep inspection of, 377, 390 
+   - duplicate, 236 
+   - duplicate data, 240 
+   - forwarding, 336
+   - in-order delivery of, 339 
+   - out-of-order, 249
+- packet-satellite networks, 89 
+- packet scheduler, 353 
+- packet scheduling 
+   - FIFO, 355–356
+   - priority queuing, 356–357, 359 
+   - round robin, 359–360 
+   - WFQ, 359–360
+- packet sniffer, 87, 106
+- packet-switched networks, delays in, 65–76
+- packet switches, 34, 53, 341 
+- packet switching, 53–57, 108 
+   - circuit switching versus, 60–61 
+   - development of, 88–89 
+   - store-and-forward, 53–54 
+- paging, 597
+- pairwise communication, 331 
+- parallel TCP connections, fairness and, 309
+- parity bit, 486 
+- parity checks, 486–488
+- passive optical networks (PONs), 46 
+- passive scanning, 576 
+- path loss, 566 
+- paths, 34, 411
+   - least-cost, 412, 414–416, 418–419 
+   - multihop, 289–291 
+   - multiple same-cost, 428 
+   - shortest, 412 
+- Paxos, 447
+- payload field, 83 
+- PDUs. See protocol data units
+- peering agreements, 438–439 
+- peers, 63
+- peer-to-peer (P2P) architecture, 114, 167–170
+   - BitTorrent, 170–173 
+   - chunks, 170 
+   - DHT, 173
+   - file distribution with, 171 
+   - optimistically unchoked, 172 
+   - rarest first, 172 
+   - torrent, defined, 170 
+   - tracker, 171 
+   - unchoked, 172
+- per-connection throughput, 286–287 
+- performance enhancement, 390 
+- per-router control, 408–410, 466 
+- persistent connections, 128 
+- PGP. See Pretty Good Privacy 
+- P-GW. See Packet Data Network Gateway
+- Photobell, 108
+- physical address, 508 
+- physical layer, 82 
+- physical media, 48–51 
+   - coaxial cable, 50 
+   - fiber optics, 50 
+   - satellite radio, 51 
+   - terrestrial radio, 51
+   - twisted-pair copper wire, 49–50 
+- physical medium, 49 
+- piconets, 591
+- piggybacked acknowledgments, 265 
+- ping, 453
+- pipelined reliable data transfer proto-cols, 241, 243–245
+- pipelining, 245 
+   - TCP, 267
+- plaintext, 641, 642 
+- playback attack, 668 
+- plug-and-play, 371
+- plug-and-play devices, 524
+- points of presence (PoPs), 63 
+- point-to-point connections, 257 
+- point-to-point link, 491 
+- Point-to-Point Protocol (PPP) 
+   - MTU, 259
+- poisoned reverse, 424 
+- polling protocol, 504 
+- polls, 504
+- polyalphabetic encryption, 643, 644 
+- polynomial codes, 489 
+- PONs. See passive optical networks 
+- PoPs. See points of presence 
+- port numbers, 118, 184, 219–220 
+   - NAT and, 374–376 
+   - socket, 219–220 
+   - well-known, 218
+- port scanning, 222 
+- port-status message, 449 
+- positive acknowledgments, 234 
+- Pouzin, Louis, 90 
+- PPP. See Point-to-Point Protocol 
+- preamble, 517
+- prefix, 345, 346, 366–368 
+- Pretty Good Privacy (PGP), 673–674
+- Prim’s algorithm, 413 
+- priority queuing, 355–357, 359 
+   - non-preemptive, 357 
+- privacy, 704–705 
+- private key, 649
+- private networks, 64, 94, 374, 410 
+- processes, 115 
+   - server, 257
+   - transport layer protocols connecting, 212 
+- processing delay, 66 
+- programmable network, 442 
+- propagation delay, 65, 67–69 
+- proprietary networks, 89–91 
+- protocol data units (PDUs), 459, 460 
+- protocol layering, 79–80
+- protocols, 35, 39. See also specific protocols
+   - defining, 37–39 
+   - network, 38–39 
+   - routing, 55–56 
+- protocol stack, 80 
+- provider, 62
+- provider networks, 438 
+- proxy server, 138 
+- PSH bit, 261 
+- public-key, 649
+- public key certification, 662–664 
+- public key encryption, 642, 648–654 
+- Public Key Infrastructure (PKI), 661 
+- pull protocol, 181
+- pure ALOHA protocol, 551 
+- push protocol, 182 
+- Python
+   - port numbers, 219 
+   - UDP connections, 219
 
 # Q
 
-QoS. See quality of service quality of service, 597 non-default, 379
-queuing delays, 54–55, 66, 69–71 network congestion and, 287
-queuing delays, 65
-FIFO, 355–356 input, 350
-line speed and, 349–350 non-preemptive priority, 357 output, 351–353 priority, 355–357, 359 round-robin, 355, 359–360 in routers, 349–354 traffic load and, 349
-transmission rate and, 349–350 WFQ, 359–360 work-conserving, 359
-Quick UDP Internet Connections (QUIC), 310–312
-connection-oriented and secure, 310–311
-HTTP, 311–312 streams, 311
-TCP-friendly congestion-controlled data transfer, 311
-QUIC protocol, 226, 227
+- QoS. See quality of service 
+- quality of service, 597 
+   - non-default, 379
+- queuing delays, 54–55, 66, 69–71 
+   - network congestion and, 287
+- queuing 
+   - delays, 65
+   - FIFO, 355–356 input, 350
+   - line speed and, 349–350 
+   - non-preemptive priority, 357 
+   - output, 351–353 
+   - priority, 355–357, 359 
+   - round-robin, 355, 359–360 
+   - in routers, 349–354 
+   - traffic load and, 349
+   - transmission rate and, 349–350 
+   - WFQ, 359–360 
+   - work-conserving, 359
+- Quick UDP Internet Connections (QUIC), 310–312
+   - connection-oriented and secure, 310–311
+   - HTTP, 311–312 
+   - streams, 311
+   - TCP-friendly congestion-controlled data transfer, 311
+- QUIC protocol, 226, 227
 
 # R
 
-radio link control, 600 Rand Institute, 89
-random access protocols, 493, 495 Random Early Detection (RED), 352 RCP. See Routing Control Platform realm with private addresses, 374 real-time conversational applications. See Voice-over-IP
-reassembly, IPv6 datagram, 380 receive buffer, 277, 278 receiver authentication, 639, 670 receiver feedback, 234 receive window, 260, 277, 278 recursive queries, 160, 161 RED. See Random Early Detection regional ISP, 62–63 registrar, 440 registries, 370
-reliable data transfer, 119, 216, 255–256 implementing, 330
-over channel with bit errors, 233–238
-over lossy channel with bit errors, 238–241
-over perfectly reliable channel, 232–233
-principles of, 230–256
-service implementation for, 231, 232 service model for, 230, 231 TCP, 268–376
-reliable data transfer protocol, 230 building, 232–241 pipelined, 241, 243–245 reliable data transfer service, 268 reliable delivery, 482
-reliable, TCP-friendly congestion-controlled data transfer, 311 reliable transport protocol, 330 remote procedure call (RPC), 462 repeater, 519 request line, 131
-requests for comments (RFCs), 35 Request to Send (RTS) control frame, 581
-response time, cloud service perfor-mance, 299
-retransmission, 234
-congestion and, 288–289 duplicate packets from, 236 fast, 273–275
-random access protocols, 495 sequence numbers for handling, 236–237
-slotted ALOHA protocol, 496–498 TCP timeout interval for, 266–267 TCP timer management for, 268–269
-time-based, 240–241 Rexford, Jennifer, 476 RFC 1422 public key, 664 RFCs. See requests for comments RIP, 413, 420, 546 Rivest, Ron, 650 roaming, 610
-Roberts, Lawrence, 89 robustness, LS and DV algorithms, 425
-root DNS servers, 157
-round-robin queuing, 355, 359–360 round-trip time (RTT), 129 buffer sizing and, 353
-TCP estimation for, 265–268 TCP Reno throughput, 303 TCP variable tracking, 294 route, 34, 432 BGP, 433
-BGP selection algorithm for, 435–436
-route aggregation, 368
-route information, advertising in BGP, 430–432
-routers, 34, 53, 341, 383 architecture of, 341 border, 428–429, 536 buffer sizing, 353 components of, 341–344 congestion and, 286–291 data plane, 341–360
-destination-based forwarding, 343–346 edge, 342
-forwarding plane, 342–343 forwarding tables, 336, 337 gateway, 430
-input port processing, 344–346 internal, 430
-NAT-enabled, 374–376 output port processing, 349 per-router control, 408–410 queuing in, 349–354 self-synchronization, 417 switching fabric, 347–349 route summarization, 368 routine, node, 474–475 routing, 336, 337
-among ISPs, 429–441 hot potato, 434–435 inter-area, 428–429 intra-ASs, 425–429, 439, 450
-link weights in, 427 logically centralized, 338
-multicast, 428
-programming assignment, 474–475
-routing algorithms, 336, 337, 410–425
-ARPAnet, 413, 420 centralized, 412, 414 convergence speed, 425 decentralized, 412–413 distance-vector, 418–425 dynamic, 413 link-state, 413–417 load sensitivity, 413 static, 413
-routing controllers
-logically centralized, 338 SDN and, 339
-Routing Control Platform (RCP), 476 routing loop, 423
-routing policy, BGP, 437–440 routing processor, 342 routing protocols, 55–56 routing tables, 420 BGP, 435–436
-RSA algorithm, 650–652 components of, 650 encryption/decryption, 653 RST bit, 260 RTT. See round-trip time rwnd, 294
+- radio link control, 600 
+- Rand Institute, 89
+- random access protocols, 493, 495 
+- Random Early Detection (RED), 352 
+- RCP. See Routing Control Platform realm with private addresses, 374 
+- real-time conversational applications. See Voice-over-IP
+- reassembly, IPv6 datagram, 380 
+- receive buffer, 277, 278 
+- receiver authentication, 639, 670 
+- receiver feedback, 234 
+- receive window, 260, 277, 278 
+- recursive queries, 160, 161 
+- RED. See Random Early Detection regional ISP, 62–63 
+- registrar, 440 
+- registries, 370
+- reliable data transfer, 119, 216, 255–256 
+   - implementing, 330
+   - over channel with bit errors, 233–238
+   - over lossy channel with bit errors, 238–241
+   - over perfectly reliable channel, 232–233
+   - principles of, 230–256
+   - service implementation for, 231, 232 
+   - service model for, 230, 231 
+   - TCP, 268–376
+- reliable data transfer protocol, 230 
+   - building, 232–241 
+   - pipelined, 241, 243–245 
+- reliable data transfer service, 268 
+- reliable delivery, 482
+- reliable, TCP-friendly congestion-controlled data transfer, 311 
+- reliable transport protocol, 330 remote procedure call (RPC), 462 
+- repeater, 519 
+- request line, 131
+- requests for comments (RFCs), 35 
+- Request to Send (RTS) control frame, 581
+- response time, cloud service perfor-mance, 299
+- retransmission, 234
+   - congestion and, 288–289 
+   - duplicate packets from, 236 
+   - fast, 273–275
+   - random access protocols, 495 
+   - sequence numbers for handling, 236–237
+   - slotted ALOHA protocol, 496–498 
+   - TCP timeout interval for, 266–267 
+   - TCP timer management for, 268–269
+   - time-based, 240–241 
+- Rexford, Jennifer, 476 
+- RFC 1422 public key, 664 
+- RFCs. See requests for comments RIP, 413, 420, 546 
+- Rivest, Ron, 650 
+- roaming, 610
+- Roberts, Lawrence, 89 
+- robustness, LS and DV algorithms, 425
+- root DNS servers, 157
+- round-robin queuing, 355, 359–360 
+- round-trip time (RTT), 129 
+   - buffer sizing and, 353
+   - TCP estimation for, 265–268 
+   - TCP Reno throughput, 303 
+   - TCP variable tracking, 294 
+- route, 34, 432 
+   - BGP, 433
+   - BGP selection algorithm for, 435–436
+- route aggregation, 368
+- route information, advertising in BGP, 430–432
+- routers, 34, 53, 341, 383 
+   - architecture of, 341 
+   - border, 428–429, 536 
+   - buffer sizing, 353 
+   - components of, 341–344 
+   - congestion and, 286–291 
+   - data plane, 341–360
+   - destination-based forwarding, 343–346 
+   - edge, 342
+   - forwarding plane, 342–343 
+   - forwarding tables, 336, 337 
+   - gateway, 430
+   - input port processing, 344–346 
+   - internal, 430
+   - NAT-enabled, 374–376 
+   - output port processing, 349 
+   -    - per-router control, 408–410 
+   - queuing in, 349–354 
+   - self-synchronization, 417 
+   - switching fabric, 347–349 
+- route summarization, 368 
+- routine, node, 474–475 
+- routing, 336, 337
+   - among ISPs, 429–441 
+   - hot potato, 434–435 
+   - inter-area, 428–429 
+   - intra-ASs, 425–429, 439, 450
+   - link weights in, 427 
+   - logically centralized, 338
+   - multicast, 428
+   - programming assignment, 474–475
+- routing algorithms, 336, 337, 410–425
+   - ARPAnet, 413, 420 
+   - centralized, 412, 414 
+   - convergence speed, 425 
+   -    - decentralized, 412–413 
+   - distance-vector, 418–425 
+   - dynamic, 413 
+   - link-state, 413–417 
+   - load sensitivity, 413 
+   - static, 413
+- routing controllers
+   - logically centralized, 338 
+   - SDN and, 339
+- Routing Control Platform (RCP), 476 
+- routing loop, 423
+- routing policy, BGP, 437–440 
+- routing processor, 342 
+- routing protocols, 55–56 
+- routing tables, 420 
+   - BGP, 435–436
+- RSA algorithm, 650–652 
+   - components of, 650 
+   - encryption/decryption, 653 
+- RST bit, 260 
+- RTT. See round-trip time 
+- rwnd, 294
 
 # S
 
-SA. See security association SAD. See Security Association Database
-SAL. See Service Abstraction Layer SampleRTT, 266
-satellite radio channels, 51 Scantlebury, Roger, 89 SCTP. See Stream Control Transmission Protocol
-SDN. See software-defined networking
-SDN control and management, 540 SDN controller, 444–446 secure communication, 638 Secure Hash Algorithm (SHA-1), 656 secure shell (SSH) connection, 457 security
-datagram inspection, 377 firewalls, 377, 383 IDSs, 377
-network, 638–640 network layer, 340 operational, 418, 639 OSPF and, 428
-SYN flood attacks, 284 security association (SA), 683 Security Association Database (SAD), 684
-security associations, 683–685 Security Parameter Index (SPI), 684 Security Policy Database (SPD), 687 security services, 390 segments, 81, 212, 215 acknowledged, 295 lost, 295
+- SA. See security association SAD. See Security Association Database
+- SAL. See Service Abstraction Layer SampleRTT, 266
+- satellite radio channels, 51 
+- Scantlebury, Roger, 89 
+- SCTP. See Stream Control Transmission Protocol
+- SDN. See software-defined networking
+- SDN control and management, 540 
+- SDN controller, 444–446 
+- secure communication, 638 
+- Secure Hash Algorithm (SHA-1), 656 
+- secure shell (SSH) connection, 457 
+- security
+   - datagram inspection, 377 
+   - firewalls, 377, 383 
+   - IDSs, 377
+network, 638–640 
+network layer, 340 
+operational, 418, 639 
+OSPF and, 428
+SYN flood attacks, 284 
+security association (SA), 683 
+Security Association Database (SAD), 684
+security associations, 683–685 
+Security Parameter Index (SPI), 684 
+Security Policy Database (SPD), 687 
+security services, 390 
+segments, 81, 212, 215 
+acknowledged, 295 lost, 295
 maximum size, 259, 260 TCP, 259
-TCP structure, 260–265 transport-layer, 83 UDP structure, 228
-selective acknowledgment, 276 selective repeat (SR), 245, 250–256 events and actions, 252 operation of, 253 TCP as, 276
-window size, 254, 255 self-clocking, 295 self-learning, 523, 544
-link-layer switches, 523–524 self-replicating malware, 85
-self-synchronization, 417 send buffer, 259
-sender authentication, 639, 670 sending rate, 288 sequence number, 236 in GBN protocol, 245–246 in pipelined protocols, 245 retransmission handling with, 236–237
+TCP structure, 260–265
+transport-layer, 83
+UDP structure, 228
+- selective acknowledgment, 276 
+- selective repeat (SR), 245, 250–256 
+events and actions, 252 
+operation of, 253 
+TCP as, 276
+window size, 254, 255 
+self-clocking, 295 
+self-learning, 523, 544
+link-layer switches, 523–524 
+self-replicating malware, 85
+self-synchronization, 417 
+send buffer, 259
+sender authentication, 639, 670 
+sending rate, 288 
+sequence number, 236 
+in GBN protocol, 245–246 
+in pipelined protocols, 245 
+retransmission handling with, 236–237
 in SR protocol, 251, 254 TCP, 261–263
-for TCP segment, 262 Telnet and, 263–265 
+for TCP segment, 262 
+Telnet and, 263–265 
 sequence number field, 260 
-sequence number for segment, 262 server, 116 servers, 41
+sequence number for segment, 262 
+server, 116 
+servers, 41
 managing, 456 
 network control, 447 
 processes, 257 
@@ -1755,10 +1891,14 @@ service set identifier (SSID), 575
 Serving Gateway (S-GW), 595 
 session key, 652
 session management function (SMF), 608
-S-GW. See Serving Gateway SHA-1. See Secure Hash Algorithm Shamir, Adi, 650 
-shared medium, 50 delays in, 73 shortest path, 412
+S-GW. See Serving Gateway 
+SHA-1. See Secure Hash Algorithm 
+Shamir, Adi, 650 
+shared medium, 50 delays in, 73 
+shortest path, 412
 Short Inter-frame Spacing (SIFS), 579
-SIFS. See Short Inter-frame Spacing signal-to-noise ratio (SNR), 566 
+SIFS. See Short Inter-frame Spacing 
+signal-to-noise ratio (SNR), 566 
 signature-based systems, 707 
 silent periods, 59
 simple authentication, 428 
@@ -1776,7 +1916,8 @@ sleep modes, 603–604
 sliding-window protocol, 246 
 slow start, 296–297 
 small cell stations, 607
-small office, home office (SOHO), subnets, 374 
+small office, home office (SOHO), 
+subnets, 374 
 smart spaces, 109 
 SMI. See Structure of Management Information
 SMTP. See Simple Mail Transfer Protocol
@@ -1887,21 +2028,46 @@ TCP congestion-control algorithm, 295–300
 TCP connection, 121 
 TCP CUBIC, 301–303, 309
 TCP-friendly congestion-controlled data transfer, 311
-TCP/IP, 35, 258 TCP Reno, 300–303 TCP segments, 259 TCP socket, 544, 546 TCP splitting, 299 TCP states, 281–283 TCP SYN, 546 TCP Tahoe, 300, 301 TCP Vegas, 305–306 TDM. See time-division multiplexing telco. See telephone company Telenet, 89
-telephone company (telco), 43 Telnet, 263–265, 457 temporary IP addresses, 371 Ternary Content Addressable Memories (TCAMs), 346 terrestrial radio channels, 51 3G, 48
+TCP/IP, 35, 258 
+TCP Reno, 300–303 
+TCP segments, 259 
+TCP socket, 544, 546 
+TCP splitting, 299 
+TCP states, 281–283 
+TCP SYN, 546 TCP Tahoe, 300, 301 
+TCP Vegas, 305–306 
+TDM. See time-division multiplexing 
+telco. See telephone company 
+Telenet, 89
+telephone company (telco), 43 
+Telnet, 263–265, 457 
+temporary IP addresses, 371 
+Ternary Content Addressable Memories (TCAMs), 346 
+terrestrial radio channels, 51 3G, 48
 Third Generation Partnership Program, 382
-three-way handshake, 258, 280–281, 546 throughput, 73–76 average, 74
-congestion and, 286–291 instantaneous, 73
-per-connection, 286–287 TCP Reno, 303 tier-1 ISPs, 62–63 TikTok
+three-way handshake, 258, 280–281, 546 
+throughput, 73–76 average, 74
+congestion and, 286–291 
+instantaneous, 73
+per-connection, 286–287 
+TCP Reno, 303 
+tier-1 ISPs, 62–63 
+TikTok
 video streaming, 173
-time-based retransmission, 240–241 time-division multiplexing (TDM), 58–60, 493–494 time frames, 494 timeout events
-in GBN protocol, 248 in SR protocol, 252 TCP, 266–267, 269, 270
+time-based retransmission, 240–241 
+time-division multiplexing (TDM), 58–60, 493–494 
+time frames, 494 
+timeout events
+in GBN protocol, 248 
+in SR protocol, 252 TCP, 266–267, 269, 270
 timeout intervals doubling, 271–273 
 TCP, 266–267, 271–273 
 time slots, 494
-time-to-live (TTL), 362 token, 505
-token-passing protocol, 505 Tomlinson, Ray, 
-89 top-down approach, 80
+time-to-live (TTL), 362 
+token, 505
+token-passing protocol, 505 
+Tomlinson, Ray, 89 
+top-down approach, 80
 top-level domain (TLD), 156, 157 
 Top of Rack (TOR) switch, 535 
 torrent, 170 
@@ -1911,7 +2077,8 @@ total nodal delay, 65
 TPID. See Tag Protocol Identifier Traceroute, 71–73, 454–455 
 traffic engineering, 427, 534 
 traffic intensity, 69
-traffic load, queuing and, 349 traffic volume, DNS, 156
+traffic load, queuing and, 349 
+traffic volume, DNS, 156
 Transmission Control Protocol (TCP) ACK generation
 recommendation, 274
 acknowledgment number, 261–263 
@@ -1939,11 +2106,22 @@ handshake protocol, 668
 multimedia applications using, 226 
 parallel connection fairness, 309 
 pipelining, 267
-point-to-point connections, 257 receive window, 277, 278 reliable data transfer, 268–376 retransmission timeout interval, 266–267
-RTT estimation, 265–268 securing connections, 674–676 segment structure, 260–265 selective acknowledgment, 276 self-clocking, 295
-sequence number, 261–263 services provided by, 216 simultaneous connection sockets, 222
+point-to-point connections, 257 
+receive window, 277, 278 
+reliable data transfer, 268–376 
+retransmission timeout interval, 266–267
+RTT estimation, 265–268 
+securing connections, 674–676 
+segment structure, 260–265 
+selective acknowledgment, 276 
+self-clocking, 295
+sequence number, 261–263 
+services provided by, 216 
+simultaneous connection sockets, 222
 slow start, 296–297
-socket programming with, 189–195 (see also socket programming) steady-state behavior of, 303 TCPClient.py, 191–193 
+socket programming with, 189–195 (see also socket programming) 
+steady-state behavior of, 303 
+TCPClient.py, 191–193 
 TCPServer.py, 193–195 
 three-way handshake, 258, 280–281
 throughput, 303
@@ -2046,13 +2224,13 @@ VoIP. See Voice-over-IP VPNs. See virtual private networks vulnerability attacks
 
 # W
 
-Web browsers, 92–93, 126 
+- Web browsers, 92–93, 126 
 conditional GET, 142 
 parallel connections, 309 
-Web cache, 138
-web client-server interaction, 546–547
-Web page, 126
-Web servers, 92, 126, 306 
+- Web cache, 138
+- web client-server interaction, 546–547
+- Web page, 126
+- Web servers, 92, 126, 306 
 TCP and, 223–224
 weighted fair queuing (WFQ), 359–360
 welcoming socket, 221
@@ -2086,15 +2264,15 @@ wide-area wireless versus, 48
 WiFi jungle, 576 
 WiFi Positioning System (WPS), 588 
 WiFi wireless router, 46
-wildcards, in flow table entries, 386 
-window scaling factor, 260 
-window size, 246 
+- wildcards, in flow table entries, 386 
+- window scaling factor, 260 
+- window size, 246 
 in SR, 254, 255 
-Windows platforms Snort, 708
-wireless and mobile devices, 109 
-wireless communication link, 562 
-wireless host, 562 
-wireless LANs, 47 
+- Windows platforms Snort, 708
+- wireless and mobile devices, 109 
+- wireless communication link, 562 
+- wireless host, 562 
+- wireless LANs, 47 
 encryption, 689
 encryption-key derivation, 690 
 four-way handshake, 692 
@@ -2102,16 +2280,17 @@ mutual authentication, 690
 security, 689–694
 security messaging protocols, 693–694
 shared symmetric session key derivation, 691
-802.11 wireless LANs. See IEEE 802.11 wireless LAN wireless mesh networks, 565 
-wireless networks 
-CDMA, 569–572 
-elements, 562, 563
-links and network characteristics, 566–569
-mesh, 565
-packet sniffing, 87
-transmission rates and range, 564 
-WiFi, 572–593
-wireless personal area networks (WPANs), 591
+802.11 wireless LANs. See IEEE 802.11 wireless LAN 
+- wireless mesh networks, 565 
+- wireless networks 
+   - CDMA, 569–572 
+   - elements, 562, 563
+   - links and network characteristics, 566–569
+   - mesh, 565
+   - packet sniffing, 87
+   - transmission rates and range, 564 
+- WiFi, 572–593
+- wireless personal area networks (WPANs), 591
 - Wireshark, 87, 106–107 
    - TCP, 330
 - work-conserving queuing, 359 
