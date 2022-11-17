@@ -1486,7 +1486,7 @@ connectionless, 219–220
 - OpenDaylight Lithium, 450 
 - OpenFlow, 444, 446–449 
    - action, 387 
-   -    - flow table, 384 match, 385–386
+   - flow table, 384 match, 385–386
    - match-plus-action, 387–390 
 - Open Flow Agent (OFA), 447 
 - Open Flow Controller (OFC), 447
@@ -1772,7 +1772,7 @@ connectionless, 219–220
    - internal, 430
    - NAT-enabled, 374–376 
    - output port processing, 349 
-   -    - per-router control, 408–410 
+   - per-router control, 408–410 
    - queuing in, 349–354 
    - self-synchronization, 417 
    - switching fabric, 347–349 
@@ -1791,7 +1791,7 @@ connectionless, 219–220
    - ARPAnet, 413, 420 
    - centralized, 412, 414 
    - convergence speed, 425 
-   -    - decentralized, 412–413 
+   - decentralized, 412–413 
    - distance-vector, 418–425 
    - dynamic, 413 
    - link-state, 413–417 
