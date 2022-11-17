@@ -1831,456 +1831,477 @@ connectionless, 219–220
    - datagram inspection, 377 
    - firewalls, 377, 383 
    - IDSs, 377
-network, 638–640 
-network layer, 340 
-operational, 418, 639 
-OSPF and, 428
-SYN flood attacks, 284 
-security association (SA), 683 
-Security Association Database (SAD), 684
-security associations, 683–685 
-Security Parameter Index (SPI), 684 
-Security Policy Database (SPD), 687 
-security services, 390 
-segments, 81, 212, 215 
-acknowledged, 295 lost, 295
-maximum size, 259, 260 TCP, 259
-TCP structure, 260–265
-transport-layer, 83
-UDP structure, 228
+   - network, 638–640 
+   - network layer, 340 
+   - operational, 418, 639 
+   - OSPF and, 428
+   - SYN flood attacks, 284 
+- security association (SA), 683 
+- Security Association Database (SAD), 684
+- security associations, 683–685 
+- Security Parameter Index (SPI), 684 
+- Security Policy Database (SPD), 687 
+- security services, 390 
+- segments, 81, 212, 215 
+   - acknowledged, 295 lost, 295
+   - maximum size, 259, 260 TCP, 259
+   - TCP structure, 260–265
+   - transport-layer, 83
+   - UDP structure, 228
 - selective acknowledgment, 276 
 - selective repeat (SR), 245, 250–256 
-events and actions, 252 
-operation of, 253 
-TCP as, 276
-window size, 254, 255 
-self-clocking, 295 
-self-learning, 523, 544
-link-layer switches, 523–524 
-self-replicating malware, 85
-self-synchronization, 417 
-send buffer, 259
-sender authentication, 639, 670 
-sending rate, 288 
-sequence number, 236 
-in GBN protocol, 245–246 
-in pipelined protocols, 245 
-retransmission handling with, 236–237
-in SR protocol, 251, 254 TCP, 261–263
-for TCP segment, 262 
-Telnet and, 263–265 
-sequence number field, 260 
-sequence number for segment, 262 
-server, 116 
-servers, 41
-managing, 456 
-network control, 447 
-processes, 257 
-web, 92, 223–224
-Service Abstraction Layer (SAL), 450–451
-Service Level Agreements (SLAs), 456
-service model, 79 IP, 216
-network, 339–340
-reliable data transfer, 230, 231 
-services, 79
-flow-control, 276 full-duplex, 257 
-layering, 79
-network layer, 339–340 TCP, 216
-unreliable, 216
-service set identifier (SSID), 575 
-Serving Gateway (S-GW), 595 
-session key, 652
-session management function (SMF), 608
-S-GW. See Serving Gateway 
-SHA-1. See Secure Hash Algorithm 
-Shamir, Adi, 650 
-shared medium, 50 delays in, 73 
-shortest path, 412
-Short Inter-frame Spacing (SIFS), 579
-SIFS. See Short Inter-frame Spacing 
-signal-to-noise ratio (SNR), 566 
-signature-based systems, 707 
-silent periods, 59
-simple authentication, 428 
-Simple Mail Transfer Protocol (SMTP), 80, 146–150 
-Simple Network Management Protocol (SNMP), 451, 458–462
-Simple Network Management Protocol version 3 (SNMPv3), 458–461
-single-hop, infrastructure-based net-works, 565
-single-hop, infrastructure-less net-works, 565
-Skype
-application-layer protocols, 124 
-internet telephony, 123 
-Slammer worm, 222 
-SLAs. See Service Level Agreements 
-sleep modes, 603–604 
-sliding-window protocol, 246 
-slow start, 296–297 
-small cell stations, 607
-small office, home office (SOHO), 
-subnets, 374 
-smart spaces, 109 
-SMI. See Structure of Management Information
-SMTP. See Simple Mail Transfer Protocol
-SNA, 90 
-sniffing, 87, 106 
-SNMP. See Simple Network Management Protocol
-Snort, 708 
-SNR. See signal-to-noise ratio 
-social networks, 94 
-socket interface, 36 
-socket programming port numbers, 219–220 
-with TCP, 189–195 
-types of, 182, 183 
-with UDP, 184–189 
-sockets, 117, 217
-port numbers, 219–220 
-simultaneous, 222 
-welcoming, 221 
-software agents, 109
-software-defined networking (SDN), 334, 339, 477 
-architecture of, 443
-control applications, 444–446 
-control plane, 343, 441–450 
-data plane, 442, 448–449 
-forwarding tables in, 342, 344 
-generalized forwarding and, 383–390
-key characteristics of, 441–442 
-link state change in, 448–449 
-logically centralized control in, 409–410
-packet forwarding and, 340 
-routing component, 466 
-routing processor responsibilities in, 342
-source port number, 260 
-source port number field, 218 
-source quench message, 453–454 
-spanning layer, 392 
-SPD. See Security Policy Database 
-SPI. See Security Parameter Index
-Spotify
-DNS vulnerabilities, 165 
-Sprint, 62 
-SR. See selective repeat 
-SRI. See Stanford Research Institute 
-SSID. See Service Set Identifier 
-ssthresh, 297–300
-Stanford Research Institute (SRI), 89, 108
-stateless protocol, 128
-state-management layer, SDN, 444 
-static routing algorithms, 413 
-status line, 133
-stop-and-wait protocols, 235, 243, 244
-store-and-forward transmission, 53–54 
-Stream Control Transmission Protocol (SCTP), 311
-streaming
-content distribution networks, 175–179
-DASH, 174–175
-HTTP streaming, 174–175 
-internet video, 173–174 
-streams, 311
-Structure of Management Information (SMI), 459
-subnet mask, 365
-subnets, 364–368, 513–514 
-obtaining blocks of IP addresses, 370–371
-in OSPF, 426 
-SOHO, 374 
-SWAN, 410 
-switch
-top of rack, 535 switches, 343
-crossbar, 348–349
-link-layer, 34, 53, 341, 346 
-non-blocking, 348 
-switches vs. routers, 525–527
-switching, 341
-in destination-based forwarding, 346 
-techniques for, 347–349 
-switching fabric, 342 
-bus, 348
-crossbar, 347–349
-interconnection network, 348–349 
-memory, 347–348
-queuing and speed of, 349–350 
-switch poisoning, 525 
-switch table, 521
-symmetric key encryption, 642–648 
-block ciphers, 644–646 
-Caesar cipher, 642
-chosen-plaintext attack, 643 
-Cipher Block Chaining (CBC), 647 
-ciphertext-only attack, 643 
-in IPsec, 644
-known-plaintext attack, 643 
-monoalphabetic cipher, 642 
-in PGP, 644
-polyalphabetic encryption, 643, 644 
-in TLS, 644
-SYNACK segment, 279, 283 
-SYN bit, 261 SYN cookies, 284 
-SYN flood attack, 284
+   - events and actions, 252 
+   - operation of, 253 
+   - TCP as, 276
+   - window size, 254, 255 
+- self-clocking, 295 
+- self-learning, 523, 544
+   - link-layer switches, 523–524 
+- self-replicating malware, 85
+- self-synchronization, 417 
+- send buffer, 259
+- sender authentication, 639, 670 
+- sending rate, 288 
+- sequence number, 236 
+   - in GBN protocol, 245–246 
+   - in pipelined protocols, 245 
+   - retransmission handling with, 236–237
+   - in SR protocol, 251, 254 TCP, 261–263
+   - for TCP segment, 262 
+   - Telnet and, 263–265 
+- sequence number field, 260 
+- sequence number for segment, 262 
+- server, 116 
+- servers, 41
+   - managing, 456 
+   - network control, 447 
+   - processes, 257 
+   - web, 92, 223–224
+- Service Abstraction Layer (SAL), 450–451
+- Service Level Agreements (SLAs), 456
+- service model, 79 
+   - IP, 216
+   - network, 339–340
+   - reliable data transfer, 230, 231 
+- services, 79
+   - flow-control, 276 
+   - full-duplex, 257 
+   - layering, 79
+   - network layer, 339–340 
+   - TCP, 216
+   - unreliable, 216
+- service set identifier (SSID), 575 
+- Serving Gateway (S-GW), 595 
+- session key, 652
+- session management function (SMF), 608
+- S-GW. See Serving Gateway 
+- SHA-1. See Secure Hash Algorithm 
+- Shamir, Adi, 650 
+- shared medium, 50 
+   - delays in, 73 
+- shortest path, 412
+- Short Inter-frame Spacing (SIFS), 579
+- SIFS. See Short Inter-frame Spacing 
+- signal-to-noise ratio (SNR), 566 
+- signature-based systems, 707 
+- silent periods, 59
+- simple authentication, 428 
+- Simple Mail Transfer Protocol (SMTP), 80, 146–150 
+- Simple Network Management Protocol (SNMP), 451, 458–462
+- Simple Network Management Protocol version 3 (SNMPv3), 458–461
+- single-hop, infrastructure-based net-works, 565
+- single-hop, infrastructure-less net-works, 565
+- Skype
+   - application-layer protocols, 124 
+   - internet telephony, 123 
+- Slammer worm, 222 
+- SLAs. See Service Level Agreements 
+- sleep modes, 603–604 
+- sliding-window protocol, 246 
+- slow start, 296–297 
+- small cell stations, 607
+- small office, home office (SOHO), subnets, 374 
+- smart spaces, 109 
+- SMI. See Structure of Management Information
+- SMTP. See Simple Mail Transfer Protocol
+- SNA, 90 
+- sniffing, 87, 106 
+- SNMP. See Simple Network Management Protocol
+- Snort, 708 
+- SNR. See signal-to-noise ratio 
+- social networks, 94 
+- socket interface, 36 
+- socket programming 
+   - port numbers, 219–220 
+   - with TCP, 189–195 
+   - types of, 182, 183 
+   - with UDP, 184–189 
+- sockets, 117, 217
+   - port numbers, 219–220 
+   - simultaneous, 222 
+   - welcoming, 221 
+- software agents, 109
+- software-defined networking (SDN), 334, 339, 477 
+   - architecture of, 443
+   - control applications, 444–446 
+   - control plane, 343, 441–450 
+   - data plane, 442, 448–449 
+   - forwarding tables in, 342, 344 
+   - generalized forwarding and, 383–390
+   - key characteristics of, 441–442 
+   - link state change in, 448–449 
+   - logically centralized control in, 409–410
+   - packet forwarding and, 340 
+   - routing component, 466 
+   - routing processor responsibilities in, 342
+- source port number, 260 
+- source port number field, 218 
+- source quench message, 453–454 
+- spanning layer, 392 
+- SPD. See Security Policy Database 
+- SPI. See Security Parameter Index
+- Spotify
+   - DNS vulnerabilities, 165 
+- Sprint, 62 
+- SR. See selective repeat 
+- SRI. See Stanford Research Institute 
+- SSID. See Service Set Identifier 
+- ssthresh, 297–300
+- Stanford Research Institute (SRI), 89, 108
+- stateless protocol, 128
+- state-management layer, SDN, 444 
+- static routing algorithms, 413 
+- status line, 133
+- stop-and-wait protocols, 235, 243, 244
+- store-and-forward transmission, 53–54 
+- Stream Control Transmission Protocol (SCTP), 311
+- streaming
+   - content distribution networks, 175–179
+   - DASH, 174–175
+   - HTTP streaming, 174–175 
+   - internet video, 173–174 
+- streams, 311
+- Structure of Management Information (SMI), 459
+- subnet mask, 365
+- subnets, 364–368, 513–514 
+   - obtaining blocks of IP addresses, 370–371
+   - in OSPF, 426 
+   - SOHO, 374 
+- SWAN, 410 
+- switch
+   - top of rack, 535 
+- switches, 343
+   - crossbar, 348–349
+   - link-layer, 34, 53, 341, 346 
+   - non-blocking, 348 
+- switches vs. routers, 525–527
+- switching, 341
+   - in destination-based forwarding, 346 
+   - techniques for, 347–349 
+- switching fabric, 342 
+   - bus, 348
+   - crossbar, 347–349
+   - interconnection network, 348–349 
+   - memory, 347–348
+   - queuing and speed of, 349–350 
+- switch poisoning, 525 
+- switch table, 521
+- symmetric key encryption, 642–648 
+   - block ciphers, 644–646 
+   - Caesar cipher, 642
+   - chosen-plaintext attack, 643 
+   - Cipher Block Chaining (CBC), 647 
+   - ciphertext-only attack, 643 
+   - in IPsec, 644
+   - known-plaintext attack, 643 
+   - monoalphabetic cipher, 642 
+   - in PGP, 644
+   - polyalphabetic encryption, 643, 644 
+   - in TLS, 644
+- SYNACK segment, 279, 283 
+- SYN bit, 261 SYN cookies, 284 
+- SYN flood attack, 284
 
 # T
 
-Tag Protocol Identifier (TPID), 529 
-taking-turns protocols, 493, 504–505
-TCAMs. See Ternary Content Addressable Memories
-TCP. See Transmission Control Protocol
-TCP BBR, 306
-TCP congestion-control algorithm, 295–300
-TCP connection, 121 
-TCP CUBIC, 301–303, 309
-TCP-friendly congestion-controlled data transfer, 311
-TCP/IP, 35, 258 
-TCP Reno, 300–303 
-TCP segments, 259 
-TCP socket, 544, 546 
-TCP splitting, 299 
-TCP states, 281–283 
-TCP SYN, 546 TCP Tahoe, 300, 301 
-TCP Vegas, 305–306 
-TDM. See time-division multiplexing 
-telco. See telephone company 
-Telenet, 89
-telephone company (telco), 43 
-Telnet, 263–265, 457 
-temporary IP addresses, 371 
-Ternary Content Addressable Memories (TCAMs), 346 
-terrestrial radio channels, 51 3G, 48
-Third Generation Partnership Program, 382
-three-way handshake, 258, 280–281, 546 
-throughput, 73–76 average, 74
-congestion and, 286–291 
-instantaneous, 73
-per-connection, 286–287 
-TCP Reno, 303 
-tier-1 ISPs, 62–63 
-TikTok
-video streaming, 173
-time-based retransmission, 240–241 
-time-division multiplexing (TDM), 58–60, 493–494 
-time frames, 494 
-timeout events
-in GBN protocol, 248 
-in SR protocol, 252 TCP, 266–267, 269, 270
-timeout intervals doubling, 271–273 
-TCP, 266–267, 271–273 
-time slots, 494
-time-to-live (TTL), 362 
-token, 505
-token-passing protocol, 505 
-Tomlinson, Ray, 89 
-top-down approach, 80
-top-level domain (TLD), 156, 157 
-Top of Rack (TOR) switch, 535 
-torrent, 170 
-TOR switch. See Top of Rack switch 
-TOS. See type of service 
-total nodal delay, 65 
-TPID. See Tag Protocol Identifier Traceroute, 71–73, 454–455 
-traffic engineering, 427, 534 
-traffic intensity, 69
-traffic load, queuing and, 349 
-traffic volume, DNS, 156
-Transmission Control Protocol (TCP) ACK generation
-recommendation, 274
-acknowledgment number, 261–263 
-classic congestion control, 293–303 
-client-server application using, 192 
-closing connection, 280–281 
-congestion avoidance, 297–298 
-congestion-control algorithm, 295–300 
-congestion control in, 293–309 
-congestion window, 294, 300 
-connection, 257–260 
-connection management, 279–283, 285
-connection requests, 221 cubic, 301–303
-cumulative acknowledgment, 262 
-demultiplexing, 220–223 
-development of, 91
-establishing connection, 279–280
-exploring, 330
-fairness and, 306–309 
-fast recovery, 298–300 
-fast retransmit, 273–275 
-flow control, 276–278 
-full-duplex service, 257 
-handshake protocol, 668
-multimedia applications using, 226 
-parallel connection fairness, 309 
-pipelining, 267
-point-to-point connections, 257 
-receive window, 277, 278 
-reliable data transfer, 268–376 
-retransmission timeout interval, 266–267
-RTT estimation, 265–268 
-securing connections, 674–676 
-segment structure, 260–265 
-selective acknowledgment, 276 
-self-clocking, 295
-sequence number, 261–263 
-services provided by, 216 
-simultaneous connection sockets, 222
-slow start, 296–297
-socket programming with, 189–195 (see also socket programming) 
-steady-state behavior of, 303 
-TCPClient.py, 191–193 
-TCPServer.py, 193–195 
-three-way handshake, 258, 280–281
-throughput, 303
-timeout events, 266–267, 269, 270 
-timeout intervals, 266–267, 271–273
-timer management, 268–269 
-transition to, 91–92
-transport-layer functionality, 309–312 
-variables, 294, 297, 300 
-Web servers and, 223–224
-transmission delay, 65–69 
-transmission rate, 34 
-queuing and, 349–350 transparent, 521 
-transport layer, 80–81 
-in Internet, 215–217
-network layer relationship to, 212–215
-transport-layer functionality, 309–312 
-transport-layer multiplexing and demultiplexing, 216
-transport-layer protocols (TCP), 212, 482
-and HTTP, 546–547
-Transport Layer Security (TLS), 122, 462, 674–675
-connection closure, 680 
-data transfer, 677
-handshake phase, 676, 679–680 
-key derivation, 677 record, 678
-transport-layer segment, 83 
-transport mode, 685
-triangle routing problem, 615 
-trunking, VLAN, 529 
-TTL. See time-to-live tunnel, 381
-tunnel endpoint identifier (TEID), 601 
-tunneling, 381 
-tunnel mode, 685
-twisted-pair copper wire, 49–50 
-Twitter
-DNS vulnerabilities, 165 
-two-dimensional even parity, 487 
-two-dimensional parity scheme, 487 
-Tymnet, 90
-type of service (TOS), 362 
+- Tag Protocol Identifier (TPID), 529 
+- taking-turns protocols, 493, 504–505
+- TCAMs. See Ternary Content Addressable Memories
+- TCP. See Transmission Control Protocol
+- TCP BBR, 306
+- TCP congestion-control algorithm, 295–300
+- TCP connection, 121 
+- TCP CUBIC, 301–303, 309
+- TCP-friendly congestion-controlled data transfer, 311
+- TCP/IP, 35, 258 
+- TCP Reno, 300–303 
+- TCP segments, 259 
+- TCP socket, 544, 546 
+- TCP splitting, 299 
+- TCP states, 281–283 
+- TCP SYN, 546 TCP Tahoe, 300, 301 
+- TCP Vegas, 305–306 
+- TDM. See time-division multiplexing 
+- telco. See telephone company 
+- Telenet, 89
+- telephone company (telco), 43 
+- Telnet, 263–265, 457 
+- temporary IP addresses, 371 
+- Ternary Content Addressable Memories (TCAMs), 346 
+- terrestrial radio channels, 51 3G, 48
+- Third Generation Partnership Program, 382
+- three-way handshake, 258, 280–281, 546 
+- throughput, 73–76 
+   - average, 74
+   - congestion and, 286–291 
+   - instantaneous, 73
+   - per-connection, 286–287 
+   - TCP Reno, 303 
+- tier-1 ISPs, 62–63 
+- TikTok
+   - video streaming, 173
+- time-based retransmission, 240–241 
+- time-division multiplexing (TDM), 58–60, 493–494 
+- time frames, 494 
+- timeout events
+   - in GBN protocol, 248 
+   - in SR protocol, 252 
+   - TCP, 266–267, 269, 270
+- timeout intervals 
+   - doubling, 271–273 
+   - TCP, 266–267, 271–273 
+- time slots, 494
+- time-to-live (TTL), 362 
+- token, 505
+- token-passing protocol, 505 
+- Tomlinson, Ray, 89 
+- top-down approach, 80
+- top-level domain (TLD), 156, 157 
+- Top of Rack (TOR) switch, 535 
+- torrent, 170 
+- TOR switch. See Top of Rack switch 
+- TOS. See type of service 
+- total nodal delay, 65 
+- TPID. See Tag Protocol Identifier Traceroute, 71–73, 454–455 
+- traffic engineering, 427, 534 
+- traffic intensity, 69
+- traffic load, queuing and, 349 
+- traffic volume, DNS, 156
+- Transmission Control Protocol (TCP) 
+   - ACK generation recommendation, 274
+   - acknowledgment number, 261–263 
+   - classic congestion control, 293–303 
+   - client-server application using, 192 
+   - closing connection, 280–281 
+   - congestion avoidance, 297–298 
+   - congestion-control algorithm, 295–300 
+   - congestion control in, 293–309 
+   - congestion window, 294, 300 
+   - connection, 257–260 
+   - connection management, 279–283, 285
+   - connection requests, 221 cubic, 301–303
+   - cumulative acknowledgment, 262 
+   - demultiplexing, 220–223 
+   - development of, 91
+   - establishing connection, 279–280
+   - exploring, 330
+   - fairness and, 306–309 
+   - fast recovery, 298–300 
+   - fast retransmit, 273–275 
+   - flow control, 276–278 
+   - full-duplex service, 257 
+   - handshake protocol, 668
+   - multimedia applications using, 226 
+   - parallel connection fairness, 309 
+   - pipelining, 267
+   - point-to-point connections, 257 
+   - receive window, 277, 278 
+   - reliable data transfer, 268–376 
+   - retransmission timeout interval, 266–267
+   - RTT estimation, 265–268 
+   - securing connections, 674–676 
+   - segment structure, 260–265 
+   - selective acknowledgment, 276 
+   - self-clocking, 295
+   - sequence number, 261–263 
+   - services provided by, 216 
+   - simultaneous connection sockets, 222
+   - slow start, 296–297
+   - socket programming with, 189–195 (see also socket programming) 
+   - steady-state behavior of, 303 
+   - TCPClient.py, 191–193 
+   - TCPServer.py, 193–195 
+   - three-way handshake, 258, 280–281
+   - throughput, 303
+   - timeout events, 266–267, 269, 270 
+   - timeout intervals, 266–267, 271–273
+   - timer management, 268–269 
+   - transition to, 91–92
+   - transport-layer functionality, 309–312 
+   - variables, 294, 297, 300 
+   - Web servers and, 223–224
+- transmission delay, 65–69 
+- transmission rate, 34 
+   - queuing and, 349–350 
+- transparent, 521 
+- transport layer, 80–81 
+   - in Internet, 215–217
+   - network layer relationship to, 212–215
+- transport-layer functionality, 309–312 
+- transport-layer multiplexing and demultiplexing, 216
+- transport-layer protocols (TCP), 212, 482
+   - and HTTP, 546–547
+- Transport Layer Security (TLS), 122, 462, 674–675
+   - connection closure, 680 
+   - data transfer, 677
+   - handshake phase, 676, 679–680 
+   - key derivation, 677 record, 678
+- transport-layer segment, 83 
+- transport mode, 685
+- triangle routing problem, 615 
+- trunking, VLAN, 529 
+- TTL. See time-to-live tunnel, 381
+- tunnel endpoint identifier (TEID), 601 
+- tunneling, 381 
+- tunnel mode, 685
+- twisted-pair copper wire, 49–50 
+- Twitter
+   - DNS vulnerabilities, 165 
+- two-dimensional even parity, 487 
+- two-dimensional parity scheme, 487 
+- Tymnet, 90
+- type of service (TOS), 362 
 
 # U
 
-ubiquitous WiFi, 593 UCLA, 108, 405
-UDP. See User Datagram Protocol UDP segment, 543 
-ultra reliable low-latency communications (URLLC), 606 
-undetected bit errors, 485 
-unguided media, 49
-unidirectional data transfer, 232 
-UNIX, Snort, 708 unreliable services, 216
-unshielded twisted pair (UTP), 49 
-URG bit, 261
-urgent data pointer field, 261 
-user agents, 146
-User Datagram Protocol (UDP), 215, 216, 224–230
-advantages of, 225–226 
-checksum, 228–230
-client-server application using, 185 
-connectionless nature of, 225 
-DNS using, 225 
-exploring, 330
-fairness and, 308–309 
-multimedia applications using, 226–227
-multiplexing and demultiplexing, 219–220
-reliability with, 227–228 
-segment structure, 228
-socket programming with, 184–189 
-UDPClient.py, 186–188 
-UDPServer.py, 188–189 
-User Equipment (UE), 594 
-user-plane function (UPF), 608 
-utilization, 243 UTP. See unshielded twisted pair
+- ubiquitous WiFi, 593 
+- UCLA, 108, 405
+- UDP. See User Datagram Protocol 
+- UDP segment, 543 
+- ultra reliable low-latency communications (URLLC), 606 
+- undetected bit errors, 485 
+- unguided media, 49
+- unidirectional data transfer, 232 
+- UNIX, Snort, 708 
+- unreliable services, 216
+- unshielded twisted pair (UTP), 49 
+- URG bit, 261
+- urgent data pointer field, 261 
+- user agents, 146
+- User Datagram Protocol (UDP), 215, 216, 224–230
+   - advantages of, 225–226 
+   - checksum, 228–230
+   - client-server application using, 185 
+   - connectionless nature of, 225 
+   - DNS using, 225 
+   - exploring, 330
+   - fairness and, 308–309 
+   - multimedia applications using, 226–227
+   - multiplexing and demultiplexing, 219–220
+   - reliability with, 227–228 
+   - segment structure, 228
+   - socket programming with, 184–189 
+   - UDPClient.py, 186–188 
+   - UDPServer.py, 188–189 
+- User Equipment (UE), 594 
+- user-plane function (UPF), 608 
+- utilization, 243 
+- UTP. See unshielded twisted pair
 
 # V
 
-VANET. See vehicular ad hoc network
-vehicular ad hoc network (VANET), 565
-video
-from remote server, 617 
-streaming, 606 
-video streaming
-content distribution networks, 175–179
-DASH, 174–175
-HTTP streaming, 174–175 
-internet video, 173–174 
-virtualization, 540–541 
-virtual local area networks (VLANs), 528
-inefficient use of switches, 528 
-lack of traffic isolation, 527–528 
-original ethernet frame, 530 
-single switch with two, 528 
-tag, 529
-trunking, 529
-two switches with two, 530 
-users management, 528
-virtual private networks (VPNs), 534, 681–683
-visited network, 610 VLANs. See virtual local area networks
-Voice-over-IP (VoIP), 65, 73, 356, 358
-VoIP. See Voice-over-IP VPNs. See virtual private networks vulnerability attacks, 85
+- VANET. See vehicular ad hoc network
+- vehicular ad hoc network (VANET), 565
+- video
+   - from remote server, 617 
+   - streaming, 606 
+- video streaming
+   - content distribution networks, 175–179
+   - DASH, 174–175
+   - HTTP streaming, 174–175 
+   - internet video, 173–174 
+- virtualization, 540–541 
+- virtual local area networks (VLANs), 528
+   - inefficient use of switches, 528 
+   - lack of traffic isolation, 527–528 
+   - original ethernet frame, 530 
+   - single switch with two, 528 
+   - tag, 529
+   - trunking, 529
+   - two switches with two, 530 
+   - users management, 528
+- virtual private networks (VPNs), 534, 681–683
+- visited network, 610 
+- VLANs. See virtual local area networks
+- Voice-over-IP (VoIP), 65, 73, 356, 358
+- VoIP. See Voice-over-IP 
+- VPNs. See virtual private networks 
+- vulnerability attacks, 85
 
 # W
 
 - Web browsers, 92–93, 126 
-conditional GET, 142 
-parallel connections, 309 
+   - conditional GET, 142 
+   - parallel connections, 309 
 - Web cache, 138
 - web client-server interaction, 546–547
 - Web page, 126
 - Web servers, 92, 126, 306 
-TCP and, 223–224
-weighted fair queuing (WFQ), 359–360
-welcoming socket, 221
-well-known application protocols, 218–219
-well-known port numbers, 218 well-know service, 358 WFQ. See weighted fair queuing wide-area wireless Internet access, 48
-WiFi, 34, 35, 47, 392, 573. See also IEEE 802.11 wireless LAN address fields, 584–586 advanced features in, 589–590 
-architecture, 574–578
-channels and association, 575–578 
-clear to send (CTS) control frame, 581
-collision avoidance, 582 
-duration, 586
-enterprise usage of, 46–47 
-frame control fields, 586 
-frames, 583–586
-hidden terminals, dealing with, 581–583
-link-layer acknowledgments, 579 
-MAC protocol, 578–583 
-mobility in same IP subnet, 586–588
-packet sniffing, 87
-payload and CRC fields, 583–584 
-personal area networks, 590–592 
-as point-to-point link, 583 
-power management, 590 
-public access, 93
-rate adaptation, 589–590 
-request to send (RTS) control, 581 
-sequence number, 586 
-standards, 573
-transmission rates and range, 564 
-wide-area wireless versus, 48
-WiFi jungle, 576 
-WiFi Positioning System (WPS), 588 
-WiFi wireless router, 46
+   - TCP and, 223–224
+- weighted fair queuing (WFQ), 359–360
+- welcoming socket, 221
+- well-known application protocols, 218–219
+- well-known port numbers, 218 
+- well-know service, 358 
+- WFQ. See weighted fair queuing 
+- wide-area wireless Internet access, 48
+- WiFi, 34, 35, 47, 392, 573. See also IEEE 802.11 wireless LAN 
+   - address fields, 584–586 
+   - advanced features in, 589–590 
+   - architecture, 574–578
+   - channels and association, 575–578 
+   - clear to send (CTS) control frame, 581
+   - collision avoidance, 582 
+   - duration, 586
+   - enterprise usage of, 46–47 
+   - frame control fields, 586 
+   - frames, 583–586
+   - hidden terminals, dealing with, 581–583
+   - link-layer acknowledgments, 579 
+   - MAC protocol, 578–583 
+   - mobility in same IP subnet, 586–588
+   - packet sniffing, 87
+   - payload and CRC fields, 583–584 
+   - personal area networks, 590–592 
+   - as point-to-point link, 583 
+   - power management, 590 
+   - public access, 93
+   - rate adaptation, 589–590 
+   - request to send (RTS) control, 581 
+   - sequence number, 586 
+   - standards, 573
+   - transmission rates and range, 564 
+   - wide-area wireless versus, 48
+- WiFi jungle, 576 
+- WiFi Positioning System (WPS), 588 
+- WiFi wireless router, 46
 - wildcards, in flow table entries, 386 
 - window scaling factor, 260 
 - window size, 246 
-in SR, 254, 255 
+   - in SR, 254, 255 
 - Windows platforms Snort, 708
 - wireless and mobile devices, 109 
 - wireless communication link, 562 
 - wireless host, 562 
 - wireless LANs, 47 
-encryption, 689
-encryption-key derivation, 690 
-four-way handshake, 692 
-mutual authentication, 690 
-security, 689–694
-security messaging protocols, 693–694
-shared symmetric session key derivation, 691
-802.11 wireless LANs. See IEEE 802.11 wireless LAN 
+   - encryption, 689
+   - encryption-key derivation, 690 
+   - four-way handshake, 692 
+   - mutual authentication, 690 
+   - security, 689–694
+   - security messaging protocols, 693–694
+   - shared symmetric session key derivation, 691
+- 802.11 wireless LANs. See IEEE 802.11 wireless LAN 
 - wireless mesh networks, 565 
 - wireless networks 
    - CDMA, 569–572 
