@@ -1,7 +1,5 @@
 # cn-11-index
 
-Index
-
 # A
 
 - Abramson, Norman, 91, 500
