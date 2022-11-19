@@ -39,7 +39,7 @@
 - ack clocking, 331 
 - ACK frames, 582
 - acknowledged segments, 295 
-acknowledgments 
+- acknowledgments 
    - cumulative, 248, 262 
    - negative, 234–238, 265 
    - piggybacked, 265
